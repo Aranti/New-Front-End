@@ -83,10 +83,10 @@ class ChangePassword extends React.Component {
                     localStorage.clear();
 
                     //LOCALHOST
-                    window.location.href = process.env.REACT_APP_LOCALHOST_LOGOUT
+                    // window.location.href = process.env.REACT_APP_LOCALHOST_LOGOUT
 
                     //TESTING
-                    // window.location.href = process.env.REACT_APP_SHIP_INTEL_2_LOGOUT
+                    window.location.href = process.env.REACT_APP_SHIP_INTEL_2_LOGOUT
 
                     // ACTUAL
                     // window.location.href = process.env.REACT_APP_SHIP_LINK_2_LOGOUT
