@@ -152,10 +152,10 @@ class OverviewTable extends React.Component {
         this.props.setDefaultShip(dShip);
         this.props.setCurrentShip(dShip);
         // LOCALHOST
-        window.location.href = process.env.REACT_APP_LOCALHOST;
+        // window.location.href = process.env.REACT_APP_LOCALHOST;
 
         // TESTING
-        // window.location.href = process.env.REACT_APP_SHIP_INTEL_2;
+        window.location.href = process.env.REACT_APP_SHIP_INTEL_2;
 
         // ACTUAL
         // window.location.href = process.env.REACT_APP_SHIP_LINK_2;
