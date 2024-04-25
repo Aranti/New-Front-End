@@ -1,0 +1,85 @@
+.speed-suggestion-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.label-group { margin-bottom: 20px; }
+
+.select-route-label {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.label, .option-label, .input-label, p, .route-selection, .port-selection, .distance,
+.voyage-hours, .speed-range, .submit-button, .map-container, .excel-data {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.route-label { font-weight: bold; margin-top: 20px; }
+
+.port-selection { display: flex; margin-top: 20px; }
+
+.port-option { margin-right: 20px; }
+
+.port-selection label { margin-right: 10px; }
+
+.route-selection-container {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.route-selection, .port-selection, .distance, .voyage-hours, .speed-range,
+.submit-button, .map-container, .excel-data { margin-top: 20px; }
+
+.input-group { display: flex; justify-content: space-between; }
+
+.port-option { margin-right: 20px; }
+
+input { width: 200px; padding: 10px; box-sizing: border-box; }
+
+.button-container { margin-top: 20px; text-align: center; }
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover { background-color: #45a049; }
+
+p { margin-top: 10px; }
+
+.map-container, .excel-data { margin-top: 40px; margin-left: 150px; }
+
+.voyage-hours label { margin-right: 10px; }
+
+.voyage-hours input { margin-left: 10px; }
+
+.speed-range label { margin-right: 10px; }
+
+.speed-range input { margin-right: 10px; }
+
+.speed-range input + input { margin-left: 10px; }
+
+.map-container { margin-top: 20px; margin-left: 100px; width: 100%; }
+
+.distance-label { margin-right: 10px; }
+
+.table-container { margin-top: 20px; width: 100%; overflow-x: auto; }
+
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+
+th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+
+th { background-color: #f2f2f2; }

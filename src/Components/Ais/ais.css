@@ -1,0 +1,64 @@
+.div1 {
+    width: 1900px;
+    height: 700px;
+    overflow: auto;
+    padding: 10px;
+}
+
+ .div1 table {
+    margin-top: 35px;
+}
+
+/* .div1 th {
+    border-left: none;
+    border-right: 1px solid #bbbbbb;
+    padding: 5px;
+    width: 80px;
+    min-width: 80px;
+    position: sticky;
+    top: 0;
+    background: #727272;
+    color: #e0e0e0;
+    font-weight: normal;
+} */
+
+/* .div1 td {
+    border-left: none;
+    border-right: 1px solid #bbbbbb;
+    border-bottom: 1px solid #bbbbbb;
+    padding: 5px;
+    width: 80px;
+    min-width: 80px;
+} */
+
+.div1 th:nth-child(1),
+.div1 td:nth-child(1) {
+    position: sticky;
+    left: 0;
+    min-width: max-content;
+    background: #ffebb5;
+}
+
+.div1 th:nth-child(2),
+.div1 td:nth-child(2) {
+    position: sticky;
+    /* 1st cell left/right padding + 1st cell width + 1st cell left/right border width 
+    0 + 5 + 150 + 5 + 1 */
+    left: 161px;
+    min-width: max-content;
+    background: #ffebb5;
+ } 
+
+.div1 td:nth-child(1),
+.div1 td:nth-child(2) {
+    background: #ffebb5;
+}
+
+.div1 th:nth-child(1),
+.div1 th:nth-child(2) {
+    z-index: 1;
+} 
+
+.div1 h2{
+    position: fixed;
+}

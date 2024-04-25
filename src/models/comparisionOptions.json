@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "None", "domId": "no" },
+  { "id": 2, "name": "Last Year", "domId": "ly" },
+  { "id": 3, "name": "Dry Dock", "domId": "dd" },
+  { "id": 4, "name": "Choose Sister Vessel", "domId": "sister" },
+  { "id": 5, "name": "All Sister Ships", "domId": "aggr" }
+]

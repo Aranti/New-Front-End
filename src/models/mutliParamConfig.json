@@ -1,0 +1,321 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Slip Vs FOC",
+      "value": "focslip",
+      "subparams": [
+        {
+          "id": 11,
+          "name": "Using Speed",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "speed"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            },
+            {
+              "type": "radio",
+              "name": "loaded"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Using RPM",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "ballast"
+            },
+            {
+              "type": "slider",
+              "name": "rpm"
+            },
+            {
+              "type": "radio",
+              "name": "loaded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Beaufort Vs FOC",
+      "value": "beaufortfoc",
+      "subparams": [
+        {
+          "id": 21,
+          "name": "Using Speed",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "speed"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            },
+            {
+              "type": "radio",
+              "name": "loaded"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Using RPM",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "ballast"
+            },
+            {
+              "type": "slider",
+              "name": "rpm"
+            },
+            {
+              "type": "radio",
+              "name": "loaded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Speed Vs FOC",
+      "value": "speedfoc",
+      "subparams": [
+        {
+          "id": 31,
+          "name": "Using Ballast",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Using drafttrim",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "slider",
+              "name": "draft"
+            },
+            {
+              "type": "slider",
+              "name": "trim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "RPM Vs FOC",
+      "value": "rpmfoc",
+      "subparams": [
+        {
+          "id": 41,
+          "name": "Using Ballast",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Using drafttrim",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "slider",
+              "name": "draft"
+            },
+            {
+              "type": "slider",
+              "name": "trim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Speed Vs RPM",
+      "value": "speedrpm",
+      "subparams": [
+        {
+          "id": 51,
+          "name": "Using Ballast",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "Using drafttrim",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "slider",
+              "name": "draft"
+            },
+            {
+              "type": "slider",
+              "name": "trim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "SHP Vs RPM",
+      "value": "shprpm",
+      "subparams": [
+        {
+          "id": 61,
+          "name": "Using Ballast",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Using drafttrim",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "beaufort"
+            },
+            {
+              "type": "radio",
+              "name": "direction"
+            },
+            {
+              "type": "slider",
+              "name": "draft"
+            },
+            {
+              "type": "slider",
+              "name": "trim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Beaufort Vs Slip",
+      "value": "beaufortslip",
+      "subparams": [
+        {
+          "id": 71,
+          "name": "Using Speed",
+          "fields": [
+            {
+              "type": "slider",
+              "name": "speed"
+            },
+            {
+              "type": "radio",
+              "name": "ballast"
+            },
+            {
+              "type": "radio",
+              "name": "loaded"
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "name": "Using RPM",
+          "fields": [
+            {
+              "type": "radio",
+              "name": "ballast"
+            },
+            {
+              "type": "slider",
+              "name": "rpm"
+            },
+            {
+              "type": "radio",
+              "name": "loaded"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

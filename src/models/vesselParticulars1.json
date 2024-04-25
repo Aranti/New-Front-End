@@ -1,0 +1,2342 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "VESSEL PARTICULARS",
+      "columns": [],
+      "status": 0,
+      "rows": []
+    },
+
+    {
+      "id": 2,
+      "name": "VESSEL STATUS",
+      "columns": [
+        "PARTICULARS",
+        "REPORTED",
+        "BASIS_API",
+        "EXPECTED",
+        "STATEMENT",
+        "CAUSES_EQUIP _SYSTEM",
+        "ARANTI_PROBABILITY",
+        "CONFIRM_Y_N",
+        "RESOLVED_Y_N"
+      ],
+      "status": 0,
+
+      "rows": [
+        {
+          "PARTICULARS": "REPORT DATE",
+          "REPORTED": "12/21/15 00:00",
+          "BASIS_API": "12/21/15 00:00",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "REPORT TIME LT",
+          "REPORTED": "12:00:00 PM",
+          "BASIS_API": "12:00:00 PM",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "REPORT TIME UTC",
+          "REPORTED": "12/21/15 04:00",
+          "BASIS_API": "12/21/15 04:00",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "REPORTING PERIOD",
+          "REPORTED": "20.25",
+          "BASIS_API": "",
+          "EXPECTED": "20.25",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "CLOCKS ADVANCED/RETARDED",
+          "REPORTED": "0",
+          "BASIS_API": "",
+          "EXPECTED": "0",
+          "STATEMENT": "clocks not advaced/retarded.24 hr day",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "BALLAST/LOADED",
+          "REPORTED": "1",
+          "BASIS_API": "",
+          "EXPECTED": "1",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "CARGO LOADED-TYPE",
+          "REPORTED": "1",
+          "BASIS_API": "",
+          "EXPECTED": "1",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "DRAFT FORWARD",
+          "REPORTED": "17.63",
+          "BASIS_API": "",
+          "EXPECTED": "17.63",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "DRAFT AFT",
+          "REPORTED": "17.66",
+          "BASIS_API": "",
+          "EXPECTED": "17.66",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "DRAFT MEAN",
+          "REPORTED": "17.645",
+          "BASIS_API": "",
+          "EXPECTED": "17.645",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "VESSEL TRIM",
+          "REPORTED": "0.03",
+          "BASIS_API": "",
+          "EXPECTED": "0.03",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        },
+        {
+          "PARTICULARS": "DISPLACEMENT",
+          "REPORTED": "223951",
+          "BASIS_API": "",
+          "EXPECTED": "223951",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "ARANTI_PROBABILITY": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ALTERED SPEED/DEVIATION",
+      "status": 0,
+      "data": [
+        {
+          "id": 3,
+          "name": "MAIN ENGINE STOPPED",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "DELAY IN ETA - REASON",
+              "REPORTED": "VESSEL PROCEEDING TO JINGTANG",
+              "EXPECTED": "VESSEL PROCEEDING TO JINGTANG",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGG STOP - REASON",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "Reason for stoppage not mentioned. Ref K36",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGG STOP FROM",
+              "REPORTED": "12/20/15 12:00",
+              "EXPECTED": "12/20/15 12:00",
+              "STATEMENT": "Vessel OFF HIRE for 3h 45min. Loss of hire ($$ x (3.45/24))",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGG STOP TO",
+              "REPORTED": "12/20/15 15:45",
+              "EXPECTED": "12/20/15 15:45",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "STOPPAGE TIME",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "MAIN ENGINE ON REDUCED SPEED",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "REDUCED SPEED REASON",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "REDUCED SPEED FROM",
+              "REPORTED": "1/1/00 00:00",
+              "EXPECTED": "1/1/00 00:00",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "REDUCED SPEED TO WHAT?",
+              "REPORTED": "1/1/00 00:00",
+              "EXPECTED": "1/1/00 00:00",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "REDUCED SPEED TIME DD-HH-MM",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "SHIP DEVIATED",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "REASON FOR DEVIATION",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "DEVIATION DISTANCE Kn-mi",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "REDUCED SPEED DISTANCE",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "WEATHER PARAMETERS",
+      "columns": [
+        "PARTICULARS",
+        "REPORTED",
+        "BASIS_API",
+        "EXPECTED",
+        "STATEMENT",
+        "CAUSES_EQUIP _SYSTEM",
+        "CONFIRM_Y_N",
+        "RESOLVED_Y_N"
+      ],
+      "status": 0,
+      "rows": [
+        {
+          "PARTICULARS": "AMBIENT TEMP",
+          "REPORTED": "31",
+          "BASIS_API": "31",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "RELATIVE HUMIDITY  %AGE",
+          "REPORTED": "91",
+          "BASIS_API": "",
+          "EXPECTED": "91",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "BAROMETRIC PRESSURE",
+          "REPORTED": "1010",
+          "BASIS_API": "",
+          "EXPECTED": "1010",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "WEATHER",
+          "REPORTED": "1",
+          "BASIS_API": "1",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "SEA STATE",
+          "REPORTED": "SLIGHT",
+          "BASIS_API": "SLIGHT",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "WIND FORCE BEAUFORT",
+          "REPORTED": "3",
+          "BASIS_API": "3",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "WIND DIRECTION COMPASS",
+          "REPORTED": "SW",
+          "BASIS_API": "SW",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "SWELL WAVE HEIGHT.",
+          "REPORTED": "1",
+          "BASIS_API": "1",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "SWELL DIRECTION.",
+          "REPORTED": "SW",
+          "BASIS_API": "SW",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "SWELL RELATIVE DIRECTION.",
+          "REPORTED": "232",
+          "BASIS_API": "232",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "VESSEL RELATIVE HEADING",
+          "REPORTED": "232",
+          "BASIS_API": "232",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "CURRENT FAVOURING / AGAINST",
+          "REPORTED": "",
+          "BASIS_API": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "CURRENT KNOTS",
+          "REPORTED": "0",
+          "BASIS_API": "0",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "DISTANCE & TIME",
+      "columns": [
+        "PARTICULARS",
+        "REPORTED",
+        "BASIS_API",
+        "EXPECTED",
+        "STATEMENT",
+        "CAUSES_EQUIP _SYSTEM",
+        "CONFIRM_Y_N",
+        "RESOLVED_Y_N"
+      ],
+      "status": 0,
+      "rows": [
+        {
+          "PARTICULARS": "STEAMING HOURS TODAY",
+          "REPORTED": "20.25",
+          "BASIS_API": "20.25",
+          "EXPECTED": "",
+          "STATEMENT": "Main Engine was stopped for (24-20.25)=3.75 hours. Ref K15",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "DISTANCE SINCE LAST REPORT",
+          "REPORTED": "200",
+          "BASIS_API": "200",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "TOTAL STEAMING TIME",
+          "REPORTED": "63.3",
+          "BASIS_API": "",
+          "EXPECTED": "63.3",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "TOTAL DISTANCET",
+          "REPORTED": "629",
+          "BASIS_API": "",
+          "EXPECTED": "629",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "RPM",
+          "REPORTED": "64.1",
+          "BASIS_API": "64.1",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "SPEED",
+          "REPORTED": "9.75",
+          "BASIS_API": "9.75",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "REAL SLIP ((ENGG DIST-ACTUAL DIST)/ENGG DIST.)",
+          "REPORTED": "12.7",
+          "BASIS_API": "",
+          "EXPECTED": "12.7",
+          "STATEMENT": "High Slip",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "STEAMING HOURS TO GO",
+          "REPORTED": "338",
+          "BASIS_API": "",
+          "EXPECTED": "338",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "STEAMING DISTANCE TO GO",
+          "REPORTED": "3288",
+          "BASIS_API": "",
+          "EXPECTED": "3288",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "VESSEL POSITION",
+      "columns": [
+        "PARTICULARS",
+        "REPORTED",
+        "BASIS_API",
+        "EXPECTED",
+        "STATEMENT",
+        "CAUSES_EQUIP _SYSTEM",
+        "CONFIRM_Y_N",
+        "RESOLVED_Y_N"
+      ],
+      "status": 0,
+      "rows": [
+        {
+          "PARTICULARS": "NAME OF LAST PORT OF CALL",
+          "REPORTED": "DAMPIER",
+          "BASIS_API": "",
+          "EXPECTED": "DAMPIER",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "LATITUDE - NOW",
+          "REPORTED": "9:48.0S",
+          "BASIS_API": "9:48.0S",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "LONGITUDE - NOW",
+          "REPORTED": "115:45.0E",
+          "BASIS_API": "115:45.0E",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "NAME OF NEXT PORT",
+          "REPORTED": "JINGTANG (TANGSHAN)",
+          "BASIS_API": "",
+          "EXPECTED": "JINGTANG (TANGSHAN)",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "ESTIMATED LATTITUDE AFTER 24 HRS",
+          "REPORTED": "6:23.0S",
+          "BASIS_API": "",
+          "EXPECTED": "6:23.0S",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "ESTIMATED LONGITUDE AFTER 24 HRS",
+          "REPORTED": "116:45.0E",
+          "BASIS_API": "",
+          "EXPECTED": "116:45.0E",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "ETA PILOT STATION",
+          "REPORTED": "1/4/16 06:00",
+          "BASIS_API": "",
+          "EXPECTED": "1/4/16 06:00",
+          "STATEMENT": "",
+          "CAUSES_EQUIP _SYSTEM": "",
+          "CONFIRM_Y_N": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "FUEL OIL CONSUMPTION",
+      "status": 0,
+      "data": [
+        {
+          "id": 7,
+          "name": "MAIN ENGINE FUEL OIL CONSUMPTION",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "CHARTER_PARTY",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "MAIN ENGG HFO CONS TODAY",
+              "REPORTED": "23.5",
+              "EXPECTED": "23.5",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "Very high FOC",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "MAIN ENGG LSFO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "MAIN ENGG HSDO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "MAIN ENGG DO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "MAIN ENGG LSDO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "GENERATED FUEL OIL CONSUMPTION",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "CHARTER_PARTY",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "GENR HFO CONS TODAY",
+              "REPORTED": "3.5",
+              "EXPECTED": "3.5",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "GENR LSFO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "GENR HSDO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "GENR DO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "GENR LSDO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "BOILER FUEL OIL CONSUMPTION",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "CHARTER_PARTY",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "BOILER HFO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "BOILER LSFO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "BOILER HSDO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "BOILER DO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "BOILER LSDO CONS TODAY",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "24 HOUR AVERAGE FUEL OIL CONSUMPTION",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "CHARTER_PARTY",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "24 HOURS AVG HFO CONS",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "24 HOURS AVG LSFO CONS",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "24 HOURS AVG HSDO CONS",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "24 HOURS AVG DO CONS",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "24 HOURS AVG LSDO CONS",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "CHARTER_PARTY": "write pro-rated figure. Ref from CP details",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "LUB OIL CONSUMPTION",
+      "columns": [
+        "PARTICULARS",
+        "REPORTED",
+        "EXPECTED",
+        "STATEMENT",
+        "RESOLVED_Y_N"
+      ],
+      "status": 0,
+      "rows": [
+        {
+          "PARTICULARS": "MAIN ENGINE CRANK CASE LO CONSUMPTION",
+          "REPORTED": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "MAIN ENGINE CYL OIL CONSUMPTION",
+          "REPORTED": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "GENERATOR #1 LO CONSUMPTION",
+          "REPORTED": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "GENERATOR #2 LO CONSUMPTION",
+          "REPORTED": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "GENERATOR #3 LO CONSUMPTION",
+          "REPORTED": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        },
+        {
+          "PARTICULARS": "GENERATOR #4 LO CONSUMPTION",
+          "REPORTED": "",
+          "EXPECTED": "",
+          "STATEMENT": "",
+          "RESOLVED_Y_N": "",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "MAIN ENGINE",
+      "status": 1,
+      "data": [
+        {
+          "id": 9,
+          "name": "MAIN ENGINE POWER AND SLIP",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "HOURS IN OPERATION - MAIN ENGG",
+              "REPORTED": "20.3",
+              "EXPECTED": "20.3",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "BRIDGE/ECR/ENGG SIDE CONTROL",
+              "REPORTED": "1",
+              "EXPECTED": "1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "GOVERNOR INDICATOR",
+              "REPORTED": "63.3",
+              "EXPECTED": "63.3",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "FUEL INDEX/FUEL SETTING",
+              "REPORTED": "52",
+              "EXPECTED": "52",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGINE LOAD INDICATOR",
+              "REPORTED": "35",
+              "EXPECTED": "35",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGINE SPEED (ENGINE RPM x PITCH)/TIME",
+              "REPORTED": "63.3",
+              "EXPECTED": "63.3",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "MAIN ENGG RPM AVERAGED PER WATCH",
+              "REPORTED": "64.1",
+              "EXPECTED": "64.1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGINE DISTANCE (RPM x PROP PITCH)",
+              "REPORTED": "229",
+              "EXPECTED": "229",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "OBSERVED DISTANCE - FROM BRIDGE",
+              "REPORTED": "200",
+              "EXPECTED": "200",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "SLIP %AGE [{(E.Dist-O.Dist)}/(E.Dist)]*100",
+              "REPORTED": "12.66375546",
+              "EXPECTED": "12.66375546",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "POWER DEVELOPED TODAY",
+              "REPORTED": "6374",
+              "EXPECTED": "6374",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "POWER AS %AGE OF MCR",
+              "REPORTED": "36",
+              "EXPECTED": "36",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "COMBUSTION - PEAK PRESSURE",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "COMBUSTION - COMPRESSION PRESSURE",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE EXHAUST TEMPERATURE",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "ME EXHAUST TEMP UNIT NO.1",
+              "REPORTED": "307",
+              "EXPECTED": "282",
+              "STATEMENT": "Exhaust temp is <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "ME EXHAUST TEMP UNIT NO.2",
+              "REPORTED": "317",
+              "EXPECTED": "292",
+              "STATEMENT": "Exhaust temp is <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "ME EXHAUST TEMP UNIT NO.3",
+              "REPORTED": "328",
+              "EXPECTED": "303",
+              "STATEMENT": "Exhaust temp is <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "ME EXHAUST TEMP UNIT NO.4",
+              "REPORTED": "326",
+              "EXPECTED": "301",
+              "STATEMENT": "Exhaust temp is <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "ME EXHAUST TEMP UNIT NO.5",
+              "REPORTED": "310",
+              "EXPECTED": "285",
+              "STATEMENT": "Exhaust temp is <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "ME EXHAUST TEMP UNIT NO.6",
+              "REPORTED": "329",
+              "EXPECTED": "304",
+              "STATEMENT": "Exhaust temp is <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "ME EXHAUST PRESSURE",
+              "REPORTED": "0",
+              "EXPECTED": "0",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE TURBOCHARGER",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "T/CH RPM NUMBER #1",
+              "REPORTED": "5",
+              "EXPECTED": "4.9",
+              "STATEMENT": "T/CH <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "T/CH EXHAUST TEMP INLET NO.1",
+              "REPORTED": "382",
+              "EXPECTED": "353",
+              "STATEMENT": "T/CH inlet exh <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "T/CH EXHAUST TEMP OUTLET NO.1",
+              "REPORTED": "323",
+              "EXPECTED": "291",
+              "STATEMENT": "T/CH onlet exh <Higher>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "T/CH PRESSURE DROP ACROSS BLOWER FILTER",
+              "REPORTED": "12",
+              "EXPECTED": "12",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "T/CH #1 LO TEMP BLOWER",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "T/CH #1 LO TEMP TURBINE",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE SCAVENGE SYSTEM",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "MAIN ENGINE SCAV PRESS",
+              "REPORTED": "0.45",
+              "EXPECTED": "0.5",
+              "STATEMENT": "Scav Pressure <slight drop>",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "MAIN ENGINE SCAV TEMP",
+              "REPORTED": "47",
+              "EXPECTED": "42",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "SCAV RELATIVE HUMIDITY",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE AIR COOLER",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "AIR COOLER #1 PRESS DROP",
+              "REPORTED": "75",
+              "EXPECTED": "65",
+              "STATEMENT": "HIGH",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0,
+              "affected_attributes": {
+                "name": "AIR COOLER",
+                "statement": "AIR COOLER CHOKED"
+              }
+            },
+            {
+              "PARTICULARS": "AIR TEMP BEFORE COOLER #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "AIR COOLER #1 WATER SEPARATION",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "ENGINE ROOM AIR",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "ENGINE ROOM TEMPERATURE",
+              "REPORTED": "42",
+              "EXPECTED": "42",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ENGINE ROOM PRESS BAROMETRIC",
+              "REPORTED": "1011",
+              "EXPECTED": "1011",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE FUEL SYSTEM",
+          "status": 1,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "ME F.O.INLET PRESSURE",
+              "REPORTED": "7.6",
+              "EXPECTED": "7.6",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "FUEL OIL TEMPERATURE",
+              "REPORTED": "134",
+              "EXPECTED": "134",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "ME F.O.INLET VISCOSITY",
+              "REPORTED": "13",
+              "EXPECTED": "13",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "FUEL OIL QUALITY",
+              "REPORTED": "POOR",
+              "EXPECTED": "SATISF",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 1,
+              "affected_attributes": {
+                "name": "",
+                "statement": ""
+              }
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE JKT COOLING SYSTEM",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "JACKET COOLING WATER PRESSURE",
+              "REPORTED": "3.7",
+              "EXPECTED": "3.7",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER INLET TEMP",
+              "REPORTED": "82",
+              "EXPECTED": "82",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET TEMP UNIT#1",
+              "REPORTED": "90",
+              "EXPECTED": "87",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET TEMP UNIT#2",
+              "REPORTED": "91",
+              "EXPECTED": "88",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET TEMP UNIT#3",
+              "REPORTED": "90",
+              "EXPECTED": "87",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET TEMP UNIT#4",
+              "REPORTED": "89",
+              "EXPECTED": "86",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET TEMP UNIT#5",
+              "REPORTED": "92",
+              "EXPECTED": "89",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET TEMP UNIT#6",
+              "REPORTED": "91",
+              "EXPECTED": "88",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 2
+            },
+            {
+              "PARTICULARS": "JACKET COOLING WATER OUTLET MAX TEMP UNIT NO.",
+              "REPORTED": "6",
+              "EXPECTED": "6",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLING INLET MAX TEMP UNIT NO.",
+              "REPORTED": "1",
+              "EXPECTED": "1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE JACKET COOLER",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "JACKET COOLING PUMP #1",
+              "REPORTED": "1",
+              "EXPECTED": "1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLER PUMP PRESS #1",
+              "REPORTED": "4.4",
+              "EXPECTED": "4.4",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLER SW INLET TEMP #1",
+              "REPORTED": "33",
+              "EXPECTED": "33",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLER SW OUTLET TEMP #1",
+              "REPORTED": "43",
+              "EXPECTED": "43",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLER FW INLET TEMP #1",
+              "REPORTED": "90",
+              "EXPECTED": "88",
+              "STATEMENT": "JC FW Inlet temp higher",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "JACKET COOLER FW OUTLET TEMP #1",
+              "REPORTED": "81",
+              "EXPECTED": "81",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE PISTON COOLING SYSTEM",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "PISTON COOLING PRESSURE",
+              "REPORTED": "2.1",
+              "EXPECTED": "2.1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING INLET TEMPERATURE",
+              "REPORTED": "45",
+              "EXPECTED": "45",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING OUTLET TEMP UNIT#1",
+              "REPORTED": "49",
+              "EXPECTED": "49",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING OUTLET TEMP UNIT#2",
+              "REPORTED": "48",
+              "EXPECTED": "48",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING OUTLET TEMP UNIT#3",
+              "REPORTED": "47",
+              "EXPECTED": "47",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING OUTLET TEMP UNIT#4",
+              "REPORTED": "48",
+              "EXPECTED": "48",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING OUTLET TEMP UNIT#5",
+              "REPORTED": "47",
+              "EXPECTED": "47",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING OUTLET TEMP UNIT#6",
+              "REPORTED": "47",
+              "EXPECTED": "47",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING MAX OUTLET TEMP UNIT NO.",
+              "REPORTED": "1",
+              "EXPECTED": "1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING MIN OUTLET TEMP UNIT NO.",
+              "REPORTED": "2",
+              "EXPECTED": "2",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE PISTON COOLER",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "PISTON COOLING PUMP #1",
+              "REPORTED": "1",
+              "EXPECTED": "1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLING PUMP PRESS #1",
+              "REPORTED": "2.8",
+              "EXPECTED": "2.8",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLER SW INLET TEMP #1",
+              "REPORTED": "33",
+              "EXPECTED": "33",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLER SW OUTLET TEMP #1",
+              "REPORTED": "41",
+              "EXPECTED": "41",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLER FW/OIL INLET TEMP #1",
+              "REPORTED": "50",
+              "EXPECTED": "50",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "PISTON COOLER FW/OIL OUTLET TEMP #1",
+              "REPORTED": "44",
+              "EXPECTED": "44",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE LUB OIL SYSTEM",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "X-HS LUB OIL PRESSURE",
+              "REPORTED": "2.1",
+              "EXPECTED": "2.1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "INTERMEDIATE BRG OIL PRESS",
+              "REPORTED": "38",
+              "EXPECTED": "38",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "MAIN ENGINE CRANK CASE LO PRESSURE",
+              "REPORTED": "2.1",
+              "EXPECTED": "2.1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "L.O. ENGINE INLET TEMP",
+              "REPORTED": "51",
+              "EXPECTED": "51",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "L.O. ENGINE OUTLET TEMP",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CAM SHAFT LOW PRESS",
+              "REPORTED": "51",
+              "EXPECTED": "51",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE LUB OIL COOLER",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "LUBRICATING OIL PUMP #1",
+              "REPORTED": "1",
+              "EXPECTED": "1",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "LUB OIL PUMP PRESS #1",
+              "REPORTED": "2.8",
+              "EXPECTED": "2.8",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "LUBRICATING OIL COOLER SW INLET TEMP #1",
+              "REPORTED": "33",
+              "EXPECTED": "33",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "LUBRICATING OIL COOLER SW OUTLET TEMP #1",
+              "REPORTED": "42",
+              "EXPECTED": "42",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "LUBRICATING OIL COOLER LUB OIL INLET TEMP #1",
+              "REPORTED": "52",
+              "EXPECTED": "52",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "LUBRICATING OIL COOLER LUB OIL OUTLET TEMP #1",
+              "REPORTED": "50",
+              "EXPECTED": "50",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE CROSS-HEAD PUMP",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "CROSS-HEAD LO PUMP #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CROSS-HEAD LO PUMP PRESSURE #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CROSS-HEAD LO PUMP #2",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CROSS-HEAD LO PUMP PRESSURE #2",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "MAIN ENGINE CAMSHAFT L.O. COOLER",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "CAM SHAFT LUB OIL PUMP #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CAM SHAFT L.O. PUMP PRESS #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CAM SHAFT L.O. COOLER SW INLET TEMP #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CAM SHAFT L.O. COOLER SW OUTLET TEMP #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CAM SHAFT L.O. COOLER L.O. INLET TEMP #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "CAM SHAFT L.O. COOLER L.O. OUTLET TEMP #1",
+              "REPORTED": "",
+              "EXPECTED": "",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "SEA WATER PARAMETERS",
+          "status": 0,
+          "columns": [
+            "PARTICULARS",
+            "REPORTED",
+            "EXPECTED",
+            "STATEMENT",
+            "CAUSES_EQUIP _SYSTEM",
+            "CONFIRM_Y_N",
+            "RESOLVED_Y_N"
+          ],
+          "rows": [
+            {
+              "PARTICULARS": "SEA WATER PUMP #2",
+              "REPORTED": "2",
+              "EXPECTED": "2",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "SEA WATER PRESSURE #2",
+              "REPORTED": "3.9",
+              "EXPECTED": "3.9",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            },
+            {
+              "PARTICULARS": "SEA WATER TEMPERATURE #2",
+              "REPORTED": "31",
+              "EXPECTED": "31",
+              "STATEMENT": "",
+              "CAUSES_EQUIP _SYSTEM": "",
+              "CONFIRM_Y_N": "",
+              "RESOLVED_Y_N": "",
+              "status": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "ELECTRIC POWER GENERATION",
+      "columns": ["CATEGORY"],
+      "status": 0,
+      "rows": [
+        {
+          "CATEGORY": "DIESEL GENERATOR #1"
+        },
+        {
+          "CATEGORY": "DIESEL GENERATOR #2"
+        },
+        {
+          "CATEGORY": "DIESEL GENERATOR #3"
+        },
+        {
+          "CATEGORY": "DIESEL GENERATOR #4"
+        },
+        {
+          "CATEGORY": "TURBO ALTERNATOR"
+        },
+        {
+          "CATEGORY": "SHAFT GENERATOR"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "AUXILLARY MACHINERIES IN E/ROOM",
+      "columns": ["CATEGORY"],
+      "status": 0,
+      "rows": [
+        {
+          "CATEGORY": "WATER MAKER (FWG)"
+        },
+        {
+          "CATEGORY": "REFRIGERATION PLANT"
+        },
+        {
+          "CATEGORY": "AIR CONDITIONING PLANT"
+        },
+        {
+          "CATEGORY": "BOILER"
+        }
+      ]
+    }
+  ]
+}

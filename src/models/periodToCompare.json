@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "None",
+      "value": "no"
+    },
+    {
+      "id": 2,
+      "name": "Previous Year",
+      "value": "ly"
+    },
+    {
+      "id": 3,
+      "name": "Just After Dry Docking",
+      "value": "dd"
+    },
+    {
+      "id": 4,
+      "name": "All Sister Ships",
+      "value": "aggr"
+    },
+    {
+      "id": 5,
+      "name": "Similar Ships",
+      "value": "aggr"
+    },
+    {
+      "id": 6,
+      "name": "Sisters(Specific)",
+      "value": "specific"
+    }
+    
+  ]
+}

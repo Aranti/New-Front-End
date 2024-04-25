@@ -1,0 +1,28 @@
+the react app creates its own folder while it is initiated as a new app. so whole folders are important by default. 
+here i have mentioned folders/files which need to be updated while any change needs to be done in frontend.
+public->CommonCss (these are the css files for components)
+under src all are important except models folder
+
+src->Components(all the frontend components/js codes is available here) 
+	Components->Ais->all 3 files are important
+	Components->Daily->DailyComponent.js,MakeCollapsibleList.js and MakeTable.js are important
+	Components->DailyInput->createSpreadsheetComponent.js and Spreadsheet.js are important
+	Components->DailyIssues->all are important
+	Components->Interactive->all are important except index.tsx
+	Components->Maintainance->all are important
+	Components->Overview->all are important
+	Components->Performance->all are important
+	Components->PredictiveFailureTrend folder is not important
+	Components->Reports->Fuel Oil Consumption->all are important
+	Components->Reports->Performance Analysis->all are important
+	Components->Reports->Selected Period->all are inmportant
+	Components->Reports->Vessel Details->all are important
+	Components->Reports->Weather Data->all are important
+	Components->Reports->PDFDocument.js,NewPDFWindow.js,ReportComponent.js,ReportTitle.js,ReportVesselName.js,PageTitle.js,ReportMisc(is not 		used in code but immported) are important
+
+	Components->Trends->all are important except index.tsx
+	Components> changePassword.js,HeaderComponent.js,LoadingComponent.js,LoginComponent.js,LogoutComponent.js,MainComponent.js are important
+src->models->not important
+src->redux->all are important
+src-shared->only baseUrls.js is important
+

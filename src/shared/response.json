@@ -1,0 +1,271 @@
+
+{
+  "Result": {
+      "BASIC": {
+          "Sub-Group 1": [
+              "RPM"
+          ],
+          "Sub-Group 2": [
+              "Speed SOG (Calc)",
+              "Speed STW (Calc)"
+          ],
+          "Sub-Group 3": [
+              "Real Slip (N)"
+          ],
+          "Sub-Group 4": [
+              "Draft Mean"
+          ],
+          "Sub-Group 5": [
+              "ME HFO Cons Tday"
+          ],
+          "Sub-Group 6": [
+      "main_fuel_index"
+          ]
+      },
+      "COMBUSTION PROCESS": {
+          "Sub-Group 1": [
+              "Combst - Compr Press #1",
+              "Combst - Compr Press #2",
+              "Combst - Compr Press #3",
+              "Combst - Compr Press #4",
+              "Combst - Compr Press #5",
+              "Combst - Compr Press #6",
+              "Combst - Compr Press - Avg",
+              "ME Scavange Press"
+          ],
+          "Sub-Group 2": [
+              "Combst -Peak Press  #1",
+              "Combst -Peak Press  #2",
+              "Combst -Peak Press  #3",
+              "Combst -Peak Press  #4",
+              "Combst -Peak Press  #5",
+              "Combst -Peak Press  #6",
+              "Combst -Peak Press  -  Avg",
+              "Diff (MAX - MIN) ME Peak Press.",
+              "Diff (MAX - MIN) ME Compr Press."
+          ],
+          "Sub-Group 3": [
+              "ME Exh Temp Unit No.1",
+              "ME Exh Temp Unit #2",
+              "ME Exh Temp Unit #3",
+              "ME Exh Temp Unit #4",
+              "ME Exh Temp Unit #5",
+              "ME Exh Temp Unit #6",
+              "ME Exh Temp  Avg"
+          ],
+          "Sub-Group 4": [
+              "Air Temp. Before Cooler #1",
+              "Air Temp. Before Cooler #12",
+              "Air Temp. Before Cooler #3",
+              "Air Temp. Before Cooler #4",
+              "ME Scavange Temp"
+          ],
+          "Sub-Group 5": [
+              "Air Cooler #1 Press Drop",
+              "Air Cooler #2 Press Drop",
+              "Air Cooler #3 Press Drop",
+              "Air Cooler #4 Press Drop",
+              "Scavange Relative Humidity"
+          ],
+          "Sub-Group 6": [
+              "Air Cooler #1 Water Separation",
+              "Air Cooler SW Inlet Temp #1",
+              "Air Cooler SW Outlet Temp #1",
+              "Air Cooler #2 Water Separation",
+              "Air Cooler SW Inlet Temp #2",
+              "Air Cooler SW Outlet Temp #2",
+              "Air Cooler #3 Water Separation",
+              "Air Cooler SW Inlet Temp #3",
+              "Air Cooler SW Outlet Temp #3",
+              "Air Cooler #4 Water Separation",
+              "Air Cooler SW Inlet Temp #4",
+              "Air Cooler SW Outlet Temp #4"
+          ]
+      },
+      "Central Cooler": {
+          "Sub-Group 1": [
+              "T/Ch Exh Temp Inlet #1",
+              "T/Ch Exh Temp Outlet #1",
+              "T/Ch Press Drop Acrss Blwr Filter #1",
+              "T/Ch #1 LO Temp Blwr #1"
+          ],
+          "Sub-Group 2": [
+              "Combst - Compr Press #2",
+              "Combst -Peak Press  #2",
+              "ME Exh Temp Unit #2",
+              "T/Ch RPM Number #2",
+              "T/Ch Exh Temp Inlet #2",
+              "T/Ch Exh Temp Outlet #2",
+              "T/Ch #2 Press Drop Acrss Blwr Filter#2"
+          ]
+      },
+      "FO CONS & POWER DEVELOPED": {
+          "Sub-Group 1": [
+              "RPM"
+          ],
+          "Sub-Group 2": [
+              "Speed SOG (Calc)",
+              "Speed STW (Calc)"
+          ],
+          "Sub-Group 3": [
+              "ME HFO Cons Tday",
+              "24 Hr Avg HSDO Cons."
+          ],
+          "Sub-Group 4": [
+              "Bridge / ECR / Engine Side Control"
+          ],
+          "Sub-Group 5": [
+              "Governor Indicator",
+              "Fuel Index / Fuel Setting",
+              "Engine Load Indicator"
+          ],
+          "Sub-Group 6": [
+              "SHP Today"
+          ],
+          "Sub-Group 7": [
+              "SHP - % Of MCR"
+          ],
+          "Sub-Group 8": [
+              "Combst - Compr Press #1",
+              "Combst - Compr Press #2",
+              "Combst - Compr Press #3",
+              "Combst - Compr Press #4",
+              "Combst - Compr Press #5",
+              "Combst - Compr Press #6",
+              "Combst - Compr Press - Avg",
+              "Diff (MAX - MIN) ME Compr Press."
+          ],
+          "Sub-Group 9": [
+              "Combst -Peak Press  #1",
+              "Combst -Peak Press  #2",
+              "Combst -Peak Press  #3",
+              "Combst -Peak Press  #4",
+              "Combst -Peak Press  #5",
+              "Combst -Peak Press  -  Avg"
+          ]
+      },
+      "Main Engine Air Cooler": {
+          "Sub-Group 1": [
+              "Baro Press.",
+              "Engine Room Press"
+          ],
+          "Sub-Group 2": [
+              "Air Cooler #1 Press Drop",
+              "ME Scavange Press"
+          ],
+          "Sub-Group 3": [
+              "Air Temp. Before Cooler #1",
+              "ME Scavange Temp"
+          ],
+          "Sub-Group 4": [
+              "Relative Humidity %",
+              "Air Cooler #1 Water Separation",
+              "Scavange Relative Humidity",
+              "Engine Room Humidity"
+          ],
+          "Sub-Group 5": [
+              "Air Cooler SW Inlet Temp #1",
+              "Air Cooler SW Outlet Temp #1",
+              "Jacket Cooling Water ME Inlet Temp"
+          ],
+          "Sub-Group 6": [
+              "Jacket Cooling WaterME  Inlet Press"
+          ],
+          "Sub-Group 7": [
+              "SW Disch Press #1"
+          ]
+      },
+      "Main Engine Controls": {
+          "Sub-Group 1": [
+              "ME SFOC",
+              "ME SCOC"
+          ],
+          "Sub-Group 2": [
+              "ME HFO Cons Tday",
+              "24 Hr Avg LSDO Cons.",
+              "FO Inlet Temp",
+              "FO Inlet Viscosity"
+          ],
+          "Sub-Group 3": [
+              "SHP Today",
+              "Combst -Peak Press  -  Avg",
+              "Combst - Compr Press - Avg",
+              "Diff (MAX - MIN) ME Compr Press."
+          ],
+          "Sub-Group 4": [
+              "SHP - % Of MCR",
+              "ME Exh Temp  Avg"
+          ],
+          "Sub-Group 5": [
+              "Governor Indicator",
+              "Fuel Index / Fuel Setting"
+          ]
+      },
+      "Main Engine Exhuast Turbo Charger System": {
+          "Sub-Group 1": [
+              "ME Scavange Press"
+          ],
+          "Sub-Group 2": [
+              "Combst -Peak Press  -  Avg",
+              "Combst - Compr Press - Avg",
+              "T/Ch Press Drop Acrss Blwr Filter #1",
+              "T/Ch #1 LO Inlet Press"
+          ],
+          "Sub-Group 3": [
+              "ME Exh Temp  Avg",
+              "T/Ch Exh Temp Inlet #1",
+              "T/Ch Exh Temp Outlet #1",
+              "T/Ch #1 LO Temp Blwr #1",
+              "T/Ch #1 LO Temp Trbne #1"
+          ]
+      },
+      "Main Engine PC System": {
+          "Sub-Group 1": [
+              "Pstn Clr FW/Oil Inlet Temp #1",
+              "Pstn Clr FW/Oil Outlet Temp #1"
+          ],
+          "Sub-Group 2": [
+              "Pist Cool Out Temp Unit #1",
+              "Pist Cool Out Temp Unit #2",
+              "Pist Cool Out Temp Unit #3"
+          ],
+          "Sub-Group 3": [
+              "Pstn Clr Pump Press#1",
+              "Pstn Clr FW/Oil  Outlet Press  #1"
+          ],
+          "Sub-Group 4": [
+              "Pstn Clr SW Inlet Temp #1",
+              "Pstn Clr SW Outlet Temp #1",
+              "Pstn Clr SW Inlet Press  #1",
+              "Pstn Clr SW Outlet Press  #1",
+              "SW Disch Press #1"
+          ]
+      },
+      "Main Enginev JCW System": {
+          "Sub-Group 1": [
+              "Jacket Cooling Water ME Inlet Temp",
+              "Jacket Cooling ME  Outlet temp Avge",
+              "Jacket Cooling ME Outlet Press"
+          ],
+          "Sub-Group 2": [
+              "Jkt Cool Out Temp Unit #1",
+              "Jkt Cool Out Temp Unit #2",
+              "Jkt Cool Out Temp Unit #3",
+              "Jkt Cool Out Temp Unit #4",
+              "Jkt Cool Out Temp Unit #6",
+              "Jkt Clr FW Inlet Temp #1",
+              "Jkt Clr FW Outlet Temp #1"
+          ],
+          "Sub-Group 3": [
+              "Jkt Clr Pump Disch Press#1"
+          ],
+          "Sub-Group 4": [
+              "Jkt Clr SW Inlet Temp #1",
+              "Jkt Clr SW Inlet Press  #1",
+              "Jkt Clr SW Outlet Temp #1",
+              "SW Disch Press #1"
+          ]
+      }
+  }
+}
+  

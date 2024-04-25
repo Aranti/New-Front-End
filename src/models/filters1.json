@@ -1,0 +1,55 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Speed vs HFOC/NM",
+        "modelName": "speedfoc"
+      },
+      {
+        "id": 2,
+        "name": "Speed vs SFOC",
+        "modelName": "speedsfoc"
+      },
+      {
+        "id": 3,
+        "name": "Speed vs Power",
+        "modelName": "speedpwr"
+      },
+      {
+        "id": 4,
+        "name": "RPM vs HFOC/NM",
+        "modelName": "rpmfoc"
+      },
+      {
+        "id": 5,
+        "name": "RPM vs SFOC",
+        "modelName": "rpmsfoc"
+      },
+      {
+        "id": 6,
+        "name": "RPM vs Power",
+        "modelName": "rpmpwr"
+      },
+      {
+        "id": 7,
+        "name": "Speed vs RPM",
+        "modelName": "speedrpm"
+      },
+      {
+        "id": 8,
+        "name": "Beaufort vs HFOC/NM",
+        "modelName": "beaufortfoc"
+      },
+      {
+        "id": 9,
+        "name": "Slip vs HFOC/NM",
+        "modelName": "slipfoc"
+      },
+      {
+        "id": 10,
+        "name": "Beaufort vs Slip",
+        "modelName": "beaufortslip"
+      }
+    ]
+  }
+  

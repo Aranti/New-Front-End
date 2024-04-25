@@ -1,0 +1,210 @@
+{
+	"Title": "Voyage Performance Report",
+	"Vessel Details": {
+		"Name of Vessel": "MV Marine Torfune",
+		"IMO number": 6185798,
+		"Type of Vessel": "BULK CARRIER",
+		"Voyage": "22L",
+		"Departure": "BOENATI 19.051 N, 108.62 E",
+		"Arrival": "MEIZHOU BAY 25.14 N, 119.01 E",
+		"Total Distance": "1914 nautical miles",
+		"Total Steaming Time": "187.2 h",
+		"Average Speed": "10.83 knots",
+		"Average RPM": 76.27
+	},
+	"Data Point For Performance Analysis": [
+		{
+			"Date": "7/7/2021",
+			"Observed Distance (nautical miles)": 311,
+			"Steaming Time (h)": 24,
+			"Average Speed (knots)": 12.96,
+			"Engine Distance (nautical miles)": 308,
+			"Slip (%)": -0.97,
+			"M/E (rpm)": 80,
+			"M/E LUB Cons (l)": 0,
+			"F/W Cons (t)": 8
+		},
+		{
+			"Date": "8/7/2021",
+			"Observed Distance (nautical miles)": 280,
+			"Steaming Time (h)": 24,
+			"Average Speed (knots)": 11.67,
+			"Engine Distance (nautical miles)": 308,
+			"Slip (%)": 9.09,
+			"M/E (rpm)": 80,
+			"M/E LUB Cons (l)": 190,
+			"F/W Cons (t)": 6
+		},
+		{
+			"Date": "9/7/2021",
+			"Observed Distance (nautical miles)": 316,
+			"Steaming Time (h)": 24,
+			"Average Speed (knots)": 13.17,
+			"Engine Distance (nautical miles)": 308,
+			"Slip (%)": 2.60,
+			"M/E (rpm)": 80,
+			"M/E LUB Cons (l)": 190,
+			"F/W Cons (t)": 7
+		},
+		{
+			"Date": "10/7/2021",
+			"Observed Distance (nautical miles)": 307,
+			"Steaming Time (h)": 24,
+			"Average Speed (knots)": 12.97,
+			"Engine Distance (nautical miles)": 308,
+			"Slip (%)": 0.32,
+			"M/E (rpm)": 80,
+			"M/E LUB Cons (l)": 190,
+			"F/W Cons (t)": 9
+		},
+		{
+			"Date": "11/7/2021",
+			"Observed Distance (nautical miles)": 306,
+			"Steaming Time (h)": 24,
+			"Average Speed (knots)": 12.75,
+			"Engine Distance (nautical miles)": 308,
+			"Slip (%)": 0.65,
+			"M/E (rpm)": 80,
+			"M/E LUB Cons (l)": 190,
+			"F/W Cons (t)": 7
+		},
+		{
+			"Date": "12/7/2021",
+			"Observed Distance (nautical miles)": 277,
+			"Steaming Time (h)": 24,
+			"Average Speed (knots)": 11.54,
+			"Engine Distance (nautical miles)": 308,
+			"Slip (%)": 6.10,
+			"M/E (rpm)": 80,
+			"M/E LUB Cons (l)": 194,
+			"F/W Cons (t)": 10
+		}
+	],
+	"Weather Data Along the Sailing Route From OSCAR, NOAA, OSTIA": [
+		{
+			"Date": "7/7/2021",
+			"Significant Wave Height (m)": 0.91,
+			"Wave Direction (deg)": 65,
+			"Wind Speed (knots)": 8,
+			"Wind Direction (deg)": 200,
+			"Current Speed (m/s)": 0.15,
+			"Current Direction (deg)": 165
+		},
+		{
+			"Date": "8/7/2021",
+			"Significant Wave Height (m)": 0.91,
+			"Wave Direction (deg)": 65,
+			"Wind Speed (knots)": 8,
+			"Wind Direction (deg)": 200,
+			"Current Speed (m/s)": 0.16,
+			"Current Direction (deg)": 180
+		},
+		{
+			"Date": "9/7/2021",
+			"Significant Wave Height (m)": 0.91,
+			"Wave Direction (deg)": 65,
+			"Wind Speed (knots)": 8,
+			"Wind Direction (deg)": 200,
+			"Current Speed (m/s)": 0.43,
+			"Current Direction (deg)": 260
+		},
+		{
+			"Date": "10/7/2021",
+			"Significant Wave Height (m)": 0.91,
+			"Wave Direction (deg)": 65,
+			"Wind Speed (knots)": 8,
+			"Wind Direction (deg)": 200,
+			"Current Speed (m/s)": 0.51,
+			"Current Direction (deg)": 225
+		},
+		{
+			"Date": "11/7/2021",
+			"Significant Wave Height (m)": 0.91,
+			"Wave Direction (deg)": 65,
+			"Wind Speed (knots)": 8,
+			"Wind Direction (deg)": 200,
+			"Current Speed (m/s)": 0.21,
+			"Current Direction (deg)": 275
+		},
+		{
+			"Date": "12/7/2021",
+			"Significant Wave Height (m)": 0.91,
+			"Wave Direction (deg)": 65,
+			"Wind Speed (knots)": 8,
+			"Wind Direction (deg)": 200,
+			"Current Speed (m/s)": 0.13,
+			"Current Direction (deg)": 90
+		}
+	],
+	"Fuel Oil Consumption": [
+		{
+			"Date": "7/7/2021",
+			"24 h Corrected F.O.C (t)": 30.6,
+			"Weather Corrected Baseline (t)": 18.01,
+			"Torque Rich Index": 12,
+			"Difference (%)": 41.13,
+			"Displacement (t)": 33182,
+			"Draft Aft (m)": 7.49,
+			"Draft Fwd (m)": 4.12,
+			"Trim (m)": 3.37
+		},
+		{
+			"Date": "8/7/2021",
+			"24 h Corrected F.O.C (t)": 30.6,
+			"Weather Corrected Baseline (t)": 18.01,
+			"Torque Rich Index": 12,
+			"Difference (%)": 41.13,
+			"Displacement (t)": 33182,
+			"Draft Aft (m)": 7.49,
+			"Draft Fwd (m)": 4.12,
+			"Trim (m)": 3.37
+		},
+		{
+			"Date": "9/7/2021",
+			"24 h Corrected F.O.C (t)": 30.6,
+			"Weather Corrected Baseline (t)": 18.01,
+			"Torque Rich Index": 12,
+			"Difference (%)": 41.13,
+			"Displacement (t)": 33182,
+			"Draft Aft (m)": 7.49,
+			"Draft Fwd (m)": 4.12,
+			"Trim (m)": 3.37
+		},
+		{
+			"Date": "10/7/2021",
+			"24 h Corrected F.O.C (t)": 30.6,
+			"Weather Corrected Baseline (t)": 18.01,
+			"Torque Rich Index": 12,
+			"Difference (%)": 41.13,
+			"Displacement (t)": 33182,
+			"Draft Aft (m)": 7.49,
+			"Draft Fwd (m)": 4.12,
+			"Trim (m)": 3.37
+		},
+		{
+			"Date": "11/7/2021",
+			"24 h Corrected F.O.C (t)": 30.6,
+			"Weather Corrected Baseline (t)": 18.01,
+			"Torque Rich Index": 12,
+			"Difference (%)": 41.13,
+			"Displacement (t)": 33182,
+			"Draft Aft (m)": 7.49,
+			"Draft Fwd (m)": 4.12,
+			"Trim (m)": 3.37
+		},
+		{
+			"Date": "12/7/2021",
+			"24 h Corrected F.O.C (t)": 30.6,
+			"Weather Corrected Baseline (t)": 18.01,
+			"Torque Rich Index": 12,
+			"Difference (%)": 41.13,
+			"Displacement (t)": 33182,
+			"Draft Aft (m)": 7.49,
+			"Draft Fwd (m)": 4.12,
+			"Trim (m)": 3.37
+		}
+	],
+	"Good Weather Days": 5,
+	"Non Sailing Days Before Voyage": "13 July 2021 To 17 July 2021",
+	"Sea Water Temperature": "27 - 29 Deg Celsius"
+}

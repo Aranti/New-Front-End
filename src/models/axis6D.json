@@ -1,0 +1,15 @@
+{
+  "data": {
+    "x": "x",
+    "y": "y",
+    "z": "z",
+    "type": "scatter3d",
+    "mode": "markers",
+    "name": "Regular",
+    "marker": {
+      "symbol": "z2",
+      "size": "z1",
+      "color": "z3"
+    }
+  }
+}

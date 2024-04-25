@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "title": "Basic Panel",
+      "params": {
+        "reported": [
+          "rep_dt",
+          "lat",
+          "long",
+          "rpm",
+          "speed",
+          "dst_last",
+          "w_force",
+          "sea_st",
+          "main_hfo"
+        ],
+        "expected": []
+      }
+    },
+    {
+      "title": "Combo Panel",
+      "params": {
+        "expected": [],
+        "reported": [
+          "PAP1",
+          "EAP41",
+          "EAP42",
+          "EAP43",
+          "EAP44",
+          "EAP45",
+          "EAP46",
+          "EXT101",
+          "EXT102",
+          "EXT103",
+          "EXT104",
+          "EXT105",
+          "EXT106",
+          "PWR",
+          "SFOC",
+          "SCOC",
+          "speed"
+        ]
+      }
+    }
+  ]
+}

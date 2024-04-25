@@ -1,0 +1,10 @@
+{
+    "data": [
+      { "identifier": 1 , "actualValue": "rpmfoc", "displayname": "HFOC/NM" },
+      { "identifier": 1 , "actualValue": "rpmsfoc", "displayname": "SFOC" },
+      { "identifier": 1 , "actualValue": "rpmpwr", "displayname": "Power" },
+      { "identifier": 2 , "actualValue": "speedfoc", "displayname": "HFOC/NM" },
+      { "identifier": 2 , "actualValue": "speedsfoc", "displayname": "SFOC" },
+      { "identifier": 2 , "actualValue": "speedpwr", "displayname": "Power" }
+    ]
+  }

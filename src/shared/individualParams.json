@@ -1,0 +1,1238 @@
+[
+    {
+        "label": "Report Date",
+        "value": "rep_dt"
+    },
+    {
+        "label": "Report Time",
+        "value": "rep_time"
+    },
+    {
+        "label": "Vessel Loaded/Ballast",
+        "value": "vsl_load_bal"
+    },
+    {
+        "label": "Draft Mean",
+        "value": "draft_mean"
+    },
+    {
+        "label": "Trim",
+        "value": "trim"
+    },
+    {
+        "label": "Displacement",
+        "value": "displ"
+    },
+    {
+        "label": "Ambient Temp",
+        "value": "amb_temp"
+    },
+    {
+        "label": "Relative Humidity %",
+        "value": "rel_hum"
+    },
+    {
+        "label": "Baro Press.",
+        "value": "cpress"
+    },
+    {
+        "label": "Sea State",
+        "value": "sea_st"
+    },
+    {
+        "label": "Beaufort",
+        "value": "w_force"
+    },
+    {
+        "label": "Swell (Ship).",
+        "value": "swell"
+    },
+    {
+        "label": "Ship Rel Head (Ship-Deg)",
+        "value": "vessel_head"
+    },
+    {
+        "label": "Rel Wind Dir (Deg)",
+        "value": "w_dir_rel"
+    },
+    {
+        "label": "Rel Wind Dir (COS Comp)",
+        "value": "w_rel_0"
+    },
+    {
+        "label": "Rel Wind Dir (SIN Comp)",
+        "value": "w_rel_90"
+    },
+    {
+        "label": "Rel Swell Dir (Ship-Deg)",
+        "value": "swell_dir_rel"
+    },
+    {
+        "label": "Rel Swell Dir (COS Comp)",
+        "value": "swell_rel_0"
+    },
+    {
+        "label": "Rel Swell Dir (SIN Comp)",
+        "value": "swell_rel_90"
+    },
+    {
+        "label": "Rel current dir(Ship-Deg)",
+        "value": "current_dir_rel"
+    },
+    {
+        "label": "Rel current dir(COS Comp)",
+        "value": "current_rel_0"
+    },
+    {
+        "label": "Rel current dir(SIN Comp)",
+        "value": "current_rel_90"
+    },
+    {
+        "label": "Steam Hrs Today",
+        "value": "stm_hrs"
+    },
+    {
+        "label": "RPM",
+        "value": "rpm"
+    },
+    {
+        "label": "Speed SOG (Calc)",
+        "value": "speed_sog_calc"
+    },
+    {
+        "label": "Speed STW (Calc)",
+        "value": "speed_stw_calc"
+    },
+    {
+        "label": "Real Slip (N)",
+        "value": "real_slip"
+    },
+    {
+        "label": "Real Slip (E)",
+        "value": "real_slip_calc"
+    },
+    {
+        "label": "ME LSFO Cons Tday",
+        "value": "main_lsfo"
+    },
+    {
+        "label": "ME HSDO Cons Tday",
+        "value": "main_hsdo"
+    },
+    {
+        "label": "ME LSDO Cons Tday",
+        "value": "main_lsdo"
+    },
+    {
+        "label": "ME HFO Cons Tday",
+        "value": "main_fuel"
+    },
+    {
+        "label": "ME DO Cons Tday",
+        "value": "main_do"
+    },
+    {
+        "label": "ME Total Fuels",
+        "value": "main_total"
+    },
+    {
+        "label": "ME Fuel Per Dist(HFO)",
+        "value": "main_fuel_per_dst"
+    },
+    {
+        "label": "Gen LSFO Cons Tday",
+        "value": "gen_lsfo"
+    },
+    {
+        "label": "Gen HSDO Cons Tday",
+        "value": "gen_hsdo"
+    },
+    {
+        "label": "Gen LSDO Cons Tday",
+        "value": "gen_lsdo"
+    },
+    {
+        "label": "Gen HFO Cons Tday",
+        "value": "gen_hfo"
+    },
+    {
+        "label": "Gen DO Cons Tday",
+        "value": "gen_do"
+    },
+    {
+        "label": "Blr LSFO Cons Tday",
+        "value": "boiler_lsfo"
+    },
+    {
+        "label": "Blr HSDO Cons Tday",
+        "value": "boiler_hsdo"
+    },
+    {
+        "label": "Blr LSDO Cons Tday",
+        "value": "boiler_lsdo"
+    },
+    {
+        "label": "Blr HFO Cons Tday",
+        "value": "boiler_hfo"
+    },
+    {
+        "label": "Blr DO Cons Tday",
+        "value": "boiler_do"
+    },
+    {
+        "label": "Total LSFO Cons Today",
+        "value": "total_lsfo"
+    },
+    {
+        "label": "Total HSDO Cons Today",
+        "value": "total_hsdo"
+    },
+    {
+        "label": "Total LSDO Cons Today",
+        "value": "total_lsdo"
+    },
+    {
+        "label": "Total HFO Cons Today",
+        "value": "total_hfo"
+    },
+    {
+        "label": "Total DO Cons Today",
+        "value": "total_do"
+    },
+    {
+        "label": "24 Hr Avg LSFO Cons.",
+        "value": "avg_lsfo"
+    },
+    {
+        "label": "24 Hr Avg HSDO Cons.",
+        "value": "avg_hsdo"
+    },
+    {
+        "label": "24 Hr Avg LSDO Cons.",
+        "value": "avg_lsdo"
+    },
+    {
+        "label": "24 Hr Avg HFO Cons.",
+        "value": "avg_hfo"
+    },
+    {
+        "label": "24 Hr Avg DO Cons.",
+        "value": "avg_do"
+    },
+    {
+        "label": "Hours In Operation - ME",
+        "value": "stm_hrd"
+    },
+    {
+        "label": "Bridge / ECR / Engine Side Control",
+        "value": "bridge_ctrl"
+    },
+    {
+        "label": "Governor Indicator",
+        "value": "goi"
+    },
+    {
+        "label": "Fuel Index / Fuel Setting",
+        "value": "foi"
+    },
+    {
+        "label": "Engine Load Indicator",
+        "value": "eli"
+    },
+    {
+        "label": "Engine Speed",
+        "value": "es"
+    },
+    {
+        "label": "ME RPM Avg Per Watch",
+        "value": "rpm_e"
+    },
+    {
+        "label": "Eng Dist",
+        "value": "edist"
+    },
+    {
+        "label": "Slip%Age",
+        "value": "slip_o"
+    },
+    {
+        "label": "SHP Today",
+        "value": "pwr"
+    },
+    {
+        "label": "ME  Power",
+        "value": "total_pwr"
+    },
+    {
+        "label": "ME SFOC",
+        "value": "sfoc"
+    },
+    {
+        "label": "ME SCOC",
+        "value": "scos"
+    },
+    {
+        "label": "FO Quality",
+        "value": "fo_quality"
+    },
+    {
+        "label": "FO Serv Tank #1 Temp",
+        "value": "fo1_serv_temp"
+    },
+    {
+        "label": "FO Supply Pump Suct Press #1",
+        "value": "fop1_supsuc_press"
+    },
+    {
+        "label": "FO Supply Pump Disch Press #1",
+        "value": "fop1_supdis_press"
+    },
+    {
+        "label": "FO Supply Pump Temp #1",
+        "value": "fop1_sup_temp"
+    },
+    {
+        "label": "FO Supply Pump Suct Press #2",
+        "value": "fop2_supsuc_press"
+    },
+    {
+        "label": "FO Supply Pump Disch Press #2",
+        "value": "fop2_supdis_press"
+    },
+    {
+        "label": "FO Supply Pump Temp #2",
+        "value": "fop2_sup_temp"
+    },
+    {
+        "label": "FO Supply Pump Suct Press",
+        "value": "fop_supsuc_press"
+    },
+    {
+        "label": "FO Supply Pump Disch Press",
+        "value": "fop_supdis_press"
+    },
+    {
+        "label": "FO Supply Pump Temp",
+        "value": "fop_sup_temp"
+    },
+    {
+        "label": "FO Circ. Pump Suct Press #1",
+        "value": "fop1_circsuc_pres"
+    },
+    {
+        "label": "FO Circ. Pump Disch Press #1",
+        "value": "fop1_circdis_pres"
+    },
+    {
+        "label": "FO Circ. Pump Temp #1",
+        "value": "fop1_circ_temp"
+    },
+    {
+        "label": "ME FO Circ. Pump Suct Press #2",
+        "value": "fop2_circsuc_press"
+    },
+    {
+        "label": "FO Circ. Pump Disch Press #2",
+        "value": "fop2_circdis_press"
+    },
+    {
+        "label": "FO Circ. Pump Temp #2",
+        "value": "fop2_circ_temp"
+    },
+    {
+        "label": "ME FO Circ. Pump Suct Press",
+        "value": "fop_circsuc_press"
+    },
+    {
+        "label": "FO Circ. Pump Disch Press",
+        "value": "fop_circdis_press"
+    },
+    {
+        "label": "FO Circ. Pump Temp",
+        "value": "fop_circ_temp"
+    },
+    {
+        "label": "FO Inlet Temp",
+        "value": "fo_in_temp"
+    },
+    {
+        "label": "FO Press",
+        "value": "fo_in_PRESS"
+    },
+    {
+        "label": "Combst - Compr Press #1",
+        "value": "comp_pres1"
+    },
+    {
+        "label": "Combst -Peak Press  #1",
+        "value": "peak_pres1"
+    },
+    {
+        "label": "ME Exh Temp Unit No.1",
+        "value": "ext_temp1"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #1",
+        "value": "jwme_out_temp1"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #1",
+        "value": "pwme_out_temp1"
+    },
+    {
+        "label": "Combst - Compr Press #2",
+        "value": "comp_pres2"
+    },
+    {
+        "label": "Combst -Peak Press  #2",
+        "value": "peak_pres2"
+    },
+    {
+        "label": "ME Exh Temp Unit #2",
+        "value": "ext_temp2"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #2",
+        "value": "jwme_out_temp2"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #2",
+        "value": "pwme_out_temp2"
+    },
+    {
+        "label": "Combst - Compr Press #3",
+        "value": "comp_pres3"
+    },
+    {
+        "label": "Combst -Peak Press  #3",
+        "value": "peak_pres3"
+    },
+    {
+        "label": "ME Exh Temp Unit #3",
+        "value": "ext_temp3"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #3",
+        "value": "jwme_out_temp3"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #3",
+        "value": "pwme_out_temp3"
+    },
+    {
+        "label": "Combst - Compr Press #4",
+        "value": "comp_pres4"
+    },
+    {
+        "label": "Combst -Peak Press  #4",
+        "value": "peak_pres4"
+    },
+    {
+        "label": "ME Exh Temp Unit #4",
+        "value": "ext_temp4"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #4",
+        "value": "jwme_out_temp4"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #4",
+        "value": "pwme_out_temp4"
+    },
+    {
+        "label": "Combst - Compr Press #5",
+        "value": "comp_pres5"
+    },
+    {
+        "label": "Combst -Peak Press  #5",
+        "value": "peak_pres5"
+    },
+    {
+        "label": "ME Exh Temp Unit #5",
+        "value": "ext_temp5"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #5",
+        "value": "jwme_out_temp5"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #5",
+        "value": "pwme_out_temp5"
+    },
+    {
+        "label": "Combst - Compr Press #6",
+        "value": "comp_pres6"
+    },
+    {
+        "label": "Combst -Peak Press  #6",
+        "value": "peak_pres6"
+    },
+    {
+        "label": "ME Exh Temp Unit #6",
+        "value": "ext_temp6"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #6",
+        "value": "jwme_out_temp6"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #6",
+        "value": "pwme_out_temp6"
+    },
+    {
+        "label": "Combst - Compr Press #7",
+        "value": "comp_pres7"
+    },
+    {
+        "label": "Combst -Peak Press  #7",
+        "value": "peak_pres7"
+    },
+    {
+        "label": "ME Exh Temp Unit #7",
+        "value": "ext_temp7"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #7",
+        "value": "jwme_out_temp7"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #7",
+        "value": "pwme_out_temp7"
+    },
+    {
+        "label": "Combst - Compr Press #8",
+        "value": "comp_pres8"
+    },
+    {
+        "label": "Combst -Peak Press  #8",
+        "value": "peak_pres8"
+    },
+    {
+        "label": "ME Exh Temp Unit #8",
+        "value": "ext_temp8"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #8",
+        "value": "jwme_out_temp8"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #8",
+        "value": "pwme_out_temp8"
+    },
+    {
+        "label": "Combst - Compr Press #9",
+        "value": "comp_pres9"
+    },
+    {
+        "label": "Combst -Peak Press  #9",
+        "value": "peak_pres9"
+    },
+    {
+        "label": "ME Exh Temp Unit #9",
+        "value": "ext_temp9"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #9",
+        "value": "jwme_out_temp9"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #9",
+        "value": "pwme_out_temp9"
+    },
+    {
+        "label": "Combst - Compr Press #10",
+        "value": "comp_pres10"
+    },
+    {
+        "label": "Combst -Peak Press  #10",
+        "value": "peak_pres10"
+    },
+    {
+        "label": "ME Exh Temp Unit #10",
+        "value": "ext_temp10"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit #10",
+        "value": "jwme_out_temp10"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit #10",
+        "value": "pwme_out_temp10"
+    },
+    {
+        "label": "Combst - Compr Press #11",
+        "value": "comp_pres11"
+    },
+    {
+        "label": "Combst -Peak Press  #11",
+        "value": "peak_pres11"
+    },
+    {
+        "label": "ME Exh Temp Unit No.11",
+        "value": "ext_temp11"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit#11",
+        "value": "jwme_out_temp11"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit#11",
+        "value": "pwme_out_temp11"
+    },
+    {
+        "label": "Combst - Compr Press #12",
+        "value": "comp_pres12"
+    },
+    {
+        "label": "Combst -Peak Press  #12",
+        "value": "peak_pres12"
+    },
+    {
+        "label": "ME Exh Temp Unit #12",
+        "value": "ext_temp12"
+    },
+    {
+        "label": "Jkt Cool Out Temp Unit#12",
+        "value": "jwme_out_temp12"
+    },
+    {
+        "label": "Pist Cool Out Temp Unit#12",
+        "value": "pwme_out_temp12"
+    },
+    {
+        "label": "Combst -Peak Press  -  Avg",
+        "value": "peak_presavg"
+    },
+    {
+        "label": "MAX Peak Press In Unit No?",
+        "value": "peak_presmax_no"
+    },
+    {
+        "label": "MIN Peak Press In Unit No?",
+        "value": "peak_presmin_no"
+    },
+    {
+        "label": "Diff (MAX - MIN) ME Peak Press.",
+        "value": "peakpres_maxmin_diff"
+    },
+    {
+        "label": "Combst - Compr Press - Avg",
+        "value": "comp_presavg"
+    },
+    {
+        "label": "Diff (MAX - MIN) ME Compr Press.",
+        "value": "comppres_maxmin_diff"
+    },
+    {
+        "label": "ME Exh Temp  Avg",
+        "value": "ext_tempavg"
+    },
+    {
+        "label": "ME Maximim Exh TEMP.",
+        "value": "ext_tempmax"
+    },
+    {
+        "label": "ME MIN Exh TEMP.",
+        "value": "ext_tempmin"
+    },
+    {
+        "label": "Diff (MAX - MIN) ME Exh Temp",
+        "value": "ext_maxmin_diff"
+    },
+    {
+        "label": "ME Exh Press",
+        "value": "ext_pres"
+    },
+    {
+        "label": "T/Ch RPM Number #1",
+        "value": "tc1_rpm"
+    },
+    {
+        "label": "T/Ch Exh Temp Inlet #1",
+        "value": "tc1_extin_temp"
+    },
+    {
+        "label": "T/Ch Exh Temp Outlet #1",
+        "value": "tc1_extout_temp"
+    },
+    {
+        "label": "T/Ch Press Drop Acrss Blwr Filter #1",
+        "value": "tc1_pres_drop"
+    },
+    {
+        "label": "T/Ch #1 LO Temp Blwr #1",
+        "value": "tc1_loblower_temp"
+    },
+    {
+        "label": "T/Ch #1 LO Temp Trbne #1",
+        "value": "tc1_loturbine_temp"
+    },
+    {
+        "label": "T/Ch RPM Number #2",
+        "value": "tc2_rpm"
+    },
+    {
+        "label": "T/Ch Exh Temp Inlet #2",
+        "value": "tc2_extin_temp"
+    },
+    {
+        "label": "T/Ch Exh Temp Outlet #2",
+        "value": "tc2_extout_temp"
+    },
+    {
+        "label": "T/Ch #2 Press Drop Acrss Blwr Filter#2",
+        "value": "tc2_pres_drop"
+    },
+    {
+        "label": "T/Ch #2 LO Temp Blwr#2",
+        "value": "tc2_loblower_temp"
+    },
+    {
+        "label": "T/Ch #2 Lo Temp Trbne#2",
+        "value": "tc2_loturbine_temp"
+    },
+    {
+        "label": "T/Ch RPM Number #3",
+        "value": "tc3_rpm"
+    },
+    {
+        "label": "T/Ch Exh Temp Inlet #3",
+        "value": "tc3_extin_temp"
+    },
+    {
+        "label": "T/Ch Exh Temp Outlet #3",
+        "value": "tc3_extout_temp"
+    },
+    {
+        "label": "T/Ch Press Drop Acrss Blwr Filter #3",
+        "value": "tc3_pres_drop"
+    },
+    {
+        "label": "T/Ch LO Temp Blwr #3",
+        "value": "tc3_loblower_temp"
+    },
+    {
+        "label": "T/Ch #3 Lo Temp Trbne",
+        "value": "tc3_loturbine_temp"
+    },
+    {
+        "label": "T/Ch RPM Number #4",
+        "value": "tc4_rpm"
+    },
+    {
+        "label": "T/Ch Exh Temp Inlet #4",
+        "value": "tc4_extin_temp"
+    },
+    {
+        "label": "T/Ch Exh Temp Outlet #4",
+        "value": "tc4_extout_temp"
+    },
+    {
+        "label": "T/Ch Press Drop Acrss Blwr Filter #4",
+        "value": "tc4_pres_drop"
+    },
+    {
+        "label": "T/Ch LO Temp Blwr #4",
+        "value": "tc4_loblower_temp"
+    },
+    {
+        "label": "T/Ch Lo Temp Trbne #4",
+        "value": "tc4_loturbine_temp"
+    },
+    {
+        "label": "Air Cooler #1 Press Drop",
+        "value": "ac1_pres_drop"
+    },
+    {
+        "label": "Air Temp. Before Cooler #1",
+        "value": "ac1_in_temp"
+    },
+    {
+        "label": "Air Cooler #1 Water Separation",
+        "value": "ac1_water_sep"
+    },
+    {
+        "label": "Air Cooler SW Inlet Temp #1",
+        "value": "ac1_swin_temp"
+    },
+    {
+        "label": "Air Cooler SW Outlet Temp #1",
+        "value": "ac1_swout_temp"
+    },
+    {
+        "label": "Air Cooler #2 Press Drop",
+        "value": "ac2_pres_drop"
+    },
+    {
+        "label": "Air Temp. Before Cooler #12",
+        "value": "ac2_in_temp"
+    },
+    {
+        "label": "Air Cooler #2 Water Separation",
+        "value": "ac2_water_sep"
+    },
+    {
+        "label": "Air Cooler SW Inlet Temp #2",
+        "value": "ac2_swin_temp"
+    },
+    {
+        "label": "Air Cooler SW Outlet Temp #2",
+        "value": "ac2_swout_temp"
+    },
+    {
+        "label": "Air Cooler #3 Press Drop",
+        "value": "ac3_pres_drop"
+    },
+    {
+        "label": "Air Temp. Before Cooler #3",
+        "value": "ac3_in_temp"
+    },
+    {
+        "label": "Air Cooler #3 Water Separation",
+        "value": "ac3_water_sep"
+    },
+    {
+        "label": "Air Cooler SW Inlet Temp #3",
+        "value": "ac3_swin_temp"
+    },
+    {
+        "label": "Air Cooler SW Outlet Temp #3",
+        "value": "ac3_swout_temp"
+    },
+    {
+        "label": "Air Cooler #4 Press Drop",
+        "value": "ac4_pres_drop"
+    },
+    {
+        "label": "Air Temp. Before Cooler #4",
+        "value": "ac4_in_temp"
+    },
+    {
+        "label": "Air Cooler #4 Water Separation",
+        "value": "ac4_water_sep"
+    },
+    {
+        "label": "Air Cooler SW Inlet Temp #4",
+        "value": "ac4_swin_temp"
+    },
+    {
+        "label": "Air Cooler SW Outlet Temp #4",
+        "value": "ac4_swout_temp"
+    },
+    {
+        "label": "ME Scavange Press",
+        "value": "sa_press"
+    },
+    {
+        "label": "ME Scavange Temp",
+        "value": "sa_temp"
+    },
+    {
+        "label": "Scavange Relative Humidity",
+        "value": "sa_hum"
+    },
+    {
+        "label": "Engine Room Temp",
+        "value": "er_temp"
+    },
+    {
+        "label": "Engine Room Press",
+        "value": "er_press"
+    },
+    {
+        "label": "Engine Room Humidity",
+        "value": "er_hum"
+    },
+    {
+        "label": "Jacket Cooling WaterME  Inlet Press",
+        "value": "jwme_in_press"
+    },
+    {
+        "label": "Jacket Cooling Water ME Inlet Temp",
+        "value": "jwme_in_temp"
+    },
+    {
+        "label": "Jacket Cooling ME  Outlet temp Avge",
+        "value": "jwme_out_tempavg"
+    },
+    {
+        "label": "Jacket Cooling ME Outlet Press",
+        "value": "jwme_out_press"
+    },
+    {
+        "label": "Jkt Cool Out Min Temp",
+        "value": "jwme_outmin_temp"
+    },
+    {
+        "label": "Jkt Cool Out Max Temp",
+        "value": "jwme_outmax_temp"
+    },
+    {
+        "label": "Jkt Clr Pump Disch Press#1",
+        "value": "jwc1_fwin_press"
+    },
+    {
+        "label": "Jkt Clr Pump Disch Press#2",
+        "value": "jwc2_fwin_press"
+    },
+    {
+        "label": "Jkt Clr #1",
+        "value": "jwc1_used"
+    },
+    {
+        "label": "Jkt Clr #2",
+        "value": "jwc2_used"
+    },
+    {
+        "label": "Jkt Clr SW Inlet Temp #1",
+        "value": "jwc1_swin_temp"
+    },
+    {
+        "label": "Jkt Clr SW Inlet Press  #1",
+        "value": "jwc1_swin_press"
+    },
+    {
+        "label": "Jkt Clr SW Outlet Temp #1",
+        "value": "jwc1_swout_temp"
+    },
+    {
+        "label": "Jkt Clr SW Outlet Press  #1",
+        "value": "jwc1_swout_press"
+    },
+    {
+        "label": "Jkt Clr FW Inlet Temp #1",
+        "value": "jwc1_fwin_temp"
+    },
+    {
+        "label": "Jkt Clr FW Outlet Temp #1",
+        "value": "jwc1_fwout_temp"
+    },
+    {
+        "label": "Jkt Clr FW Outlet Press  #1",
+        "value": "jwc1_fwout_pres"
+    },
+    {
+        "label": "Jkt Clr SW Inlet Temp  #2",
+        "value": "jwc2_swin_temp"
+    },
+    {
+        "label": "Jkt Clr SW Inlet Press  #2",
+        "value": "jwc2_swin_press"
+    },
+    {
+        "label": "Jkt Clr SW Outlet Temp  #2",
+        "value": "jwc2_swout_temp"
+    },
+    {
+        "label": "Jkt Clr SW Outlet Press  #2",
+        "value": "jwc2_swout_press"
+    },
+    {
+        "label": "Jkt Clr FW Inlet Temp  #2",
+        "value": "jwc2_fwin_temp"
+    },
+    {
+        "label": "Jkt Clr FW Outlet Temp  #2",
+        "value": "jwc2_fwout_temp"
+    },
+    {
+        "label": "Jkt Clr FW Outlet Press  #2",
+        "value": "jwc2_fwout_press"
+    },
+    {
+        "label": "Pstn Cool Press",
+        "value": "pwme_in_press"
+    },
+    {
+        "label": "Pstn Cool Inlet Temp",
+        "value": "pwme_in_temp"
+    },
+    {
+        "label": "Pstn Cool ME Outlet Temp Avge",
+        "value": "pwme_out_tempavg"
+    },
+    {
+        "label": "Pstn Cool ME Outlet Press",
+        "value": "pwme_out_press"
+    },
+    {
+        "label": "Pstn Cool Max Outlet Temp.",
+        "value": "pwme_outmax_temp"
+    },
+    {
+        "label": "Pstn Cool Min Outlet Temp.",
+        "value": "pwme_outmin_temp"
+    },
+    {
+        "label": "Pstn Cool Pump #1",
+        "value": "pwc1_used"
+    },
+    {
+        "label": "Pstn Clr Pump Press#1",
+        "value": "pwc1_fwin_press"
+    },
+    {
+        "label": "Pstn Clr SW Inlet Temp #1",
+        "value": "pwc1_swin_temp"
+    },
+    {
+        "label": "Pstn Clr SW Outlet Temp #1",
+        "value": "pwc1_swout_temp"
+    },
+    {
+        "label": "Pstn Clr FW/Oil Inlet Temp #1",
+        "value": "pwc1_fwin_temp"
+    },
+    {
+        "label": "Pstn Clr FW/Oil Outlet Temp #1",
+        "value": "pwc1_fwout_temp"
+    },
+    {
+        "label": "Pstn Clr FW/Oil  Outlet Press  #1",
+        "value": "pwc1_fwout_press"
+    },
+    {
+        "label": "Pstn Clr SW Inlet Press  #1",
+        "value": "pwc1_swin_press"
+    },
+    {
+        "label": "Pstn Clr SW Outlet Press  #1",
+        "value": "pwc1_swout_press"
+    },
+    {
+        "label": "Pstn Cool Pump #2",
+        "value": "pwcp2_used"
+    },
+    {
+        "label": "Pstn Clr Pump Press #2",
+        "value": "pwc2_fwin_press"
+    },
+    {
+        "label": "Pstn Clr SW Inlet Temp  #2",
+        "value": "pwc2_swin_temp"
+    },
+    {
+        "label": "Pstn Clr SW Outlet Temp  #2",
+        "value": "pwc2_swout_temp"
+    },
+    {
+        "label": "Pstn Clr FW/Oil Inlet Temp  #2",
+        "value": "pwc2_fwin_temp"
+    },
+    {
+        "label": "Pstn Clr FW/Oil Outlet Temp  #2",
+        "value": "pwc2_fwout_temp"
+    },
+    {
+        "label": "Pstn Clr FW/Oil Outlet Press  #2",
+        "value": "pwc2_fwout_press"
+    },
+    {
+        "label": "Pstn Clr SW Inlet Press  #2",
+        "value": "pwc2_swin_press"
+    },
+    {
+        "label": "Pstn Clr SW Outlet Press  #2",
+        "value": "pwc2_swout_press"
+    },
+    {
+        "label": "X-HD Lub Oil Press  (Cr-H)",
+        "value": "lome_chd_press"
+    },
+    {
+        "label": "Intermediate Bearing Oil Press",
+        "value": "lome_ib_press"
+    },
+    {
+        "label": "ME Crank Case LO Press",
+        "value": "lome_cc_pres"
+    },
+    {
+        "label": "L.O. Engine Inlet Temp",
+        "value": "lome_in_temp"
+    },
+    {
+        "label": "L.O. Engine Outlet Temp",
+        "value": "lome_out_temp"
+    },
+    {
+        "label": "Cam Shaft LO Press",
+        "value": "lome_cs_press"
+    },
+    {
+        "label": "Lub Oil Pump #1 Press.",
+        "value": "lop1_press"
+    },
+    {
+        "label": "Lub Oil Pump #2 Press.",
+        "value": "lop2_press"
+    },
+    {
+        "label": "LO Clr #1",
+        "value": "loc1_used"
+    },
+    {
+        "label": "LO Clr #2",
+        "value": "loc2_used"
+    },
+    {
+        "label": "LO Clr LO Inlet Temp #1",
+        "value": "loc1_loin_temp"
+    },
+    {
+        "label": "LO Clr LO Inlet Press#1",
+        "value": "loc1_fwin_press"
+    },
+    {
+        "label": "LO Clr LO Outlet Temp #1",
+        "value": "loc1_loout_temp"
+    },
+    {
+        "label": "LO Clr LO Outlet Press  #1",
+        "value": "loc1_loout_press"
+    },
+    {
+        "label": "LO Clr SW Inlet Temp #1",
+        "value": "loc1_swin_temp"
+    },
+    {
+        "label": "LO Clr SW Inlet Press  #1",
+        "value": "loc1_swin_press"
+    },
+    {
+        "label": "LO Clr SW Outlet Temp #1",
+        "value": "loc1_swout_temp"
+    },
+    {
+        "label": "LO Clr SW Outlet Press  #1",
+        "value": "loc1_swout_press"
+    },
+    {
+        "label": "LO Clr LO Inlet Temp #2",
+        "value": "loc2_loin_temp"
+    },
+    {
+        "label": "LO Clr LO Inlet Press #2",
+        "value": "loc2_fwin_press"
+    },
+    {
+        "label": "LO Clr LO Outlet Temp #2",
+        "value": "loc2_loout_temp"
+    },
+    {
+        "label": "LO Clr LO Outlet Press #2",
+        "value": "loc2_loout_press"
+    },
+    {
+        "label": "LO Clr SW Inlet Temp #2",
+        "value": "loc2_swin_temp"
+    },
+    {
+        "label": "LO Clr SW Inlet Press #2",
+        "value": "loc2_swin_press"
+    },
+    {
+        "label": "LO Clr SW Outlet Temp #2",
+        "value": "loc2_swout_temp"
+    },
+    {
+        "label": "LO Clr SW Outlet Press #2",
+        "value": "loc2_swout_press"
+    },
+    {
+        "label": "LO Clr Active",
+        "value": "loc_used"
+    },
+    {
+        "label": "LO Clr LO Inlet Press",
+        "value": "loc_fwin_press"
+    },
+    {
+        "label": "LO Clr SW Inlet Temp",
+        "value": "loc_swin_temp"
+    },
+    {
+        "label": "LO Clr SW Outlet Temp",
+        "value": "loc_swout_temp"
+    },
+    {
+        "label": "LO Clr LO Inlet Temp",
+        "value": "loc_loin_temp"
+    },
+    {
+        "label": "LO Clr LO Outlet Temp",
+        "value": "loc_loout_temp"
+    },
+    {
+        "label": "LO Clr LO Outlet Press",
+        "value": "loc_loout_pres"
+    },
+    {
+        "label": "LO Clr SW Inlet Press",
+        "value": "loc_swin_press"
+    },
+    {
+        "label": "LO Clr SW Outlet Press",
+        "value": "loc_swout_press"
+    },
+    {
+        "label": "Lub Oil Pump  Active",
+        "value": "lop_used"
+    },
+    {
+        "label": "Lub Oil Pump Press.",
+        "value": "lop_press"
+    },
+    {
+        "label": "Cr-H Lo Pump #1",
+        "value": "chp1_lo_used"
+    },
+    {
+        "label": "Cr-H Lo Pump Disch Press #1",
+        "value": "chp1_lo_press"
+    },
+    {
+        "label": "Cr-H Lo Pump #2",
+        "value": "chp2_lo_used"
+    },
+    {
+        "label": "Cr-H Lo Pump Press #2",
+        "value": "chp2_lo_press"
+    },
+    {
+        "label": "Cr-H Lo Pump Active",
+        "value": "chp_lo_used"
+    },
+    {
+        "label": "Cr-H Lo Pump Press #2",
+        "value": "chp_lo_press"
+    },
+    {
+        "label": "SW Disch Press #1",
+        "value": "sw1_press"
+    },
+    {
+        "label": "SW Temp #1",
+        "value": "sw1_temp"
+    },
+    {
+        "label": "SW Pump #2",
+        "value": "sw2_pump_used"
+    },
+    {
+        "label": "SW Disch Press #2",
+        "value": "sw2_press"
+    },
+    {
+        "label": "SW Temp #2",
+        "value": "sw2_temp"
+    },
+    {
+        "label": "SW Press",
+        "value": "gen_sw_press"
+    },
+    {
+        "label": "SW Temp",
+        "value": "gen_sw_temp"
+    }
+]

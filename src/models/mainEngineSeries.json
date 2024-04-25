@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "Me Exhaust Temp Unit No.1",
+      "field": "EXT101",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.2",
+      "field": "EXT102",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.3",
+      "field": "EXT103",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.4",
+      "field": "EXT104",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.5",
+      "field": "EXT105",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.6",
+      "field": "EXT106",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+.interventioncard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: fit-content !important;
+    background: #E6F1F1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    /* margin-bottom: 20%; */
+}
+
+.subcard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    height: fit-content;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+.nextbutton {
+    float: right;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(180, 220, 255);
+}
+
+.nextbutton:disabled {
+    cursor: not-allowed;
+    pointer-events: all !important;
+}
+
+.previousbutton {
+    float: left;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(180, 220, 255);
+}
+
+.addbutton {
+    cursor: pointer;
+    float: right;
+    margin: 5px;
+}

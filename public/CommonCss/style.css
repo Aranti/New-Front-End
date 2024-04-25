@@ -1,0 +1,314 @@
+@import '../../node_modules/@syncfusion/ej2-base/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-inputs/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-buttons/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-splitbuttons/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-lists/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-navigations/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-popups/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-dropdowns/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-grids/styles/material.css';
+@import '../../node_modules/@syncfusion/ej2-react-spreadsheet/styles/material.css';
+/* .wrapper {
+    padding: 20px;
+}
+
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+} */
+
+/* .cardreg {
+    margin-top: 50px;
+}
+
+.sidenav {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://aranti.ai/wp-content/uploads/2021/01/logo.png');
+    background-repeat: no-repeat;
+    background-color: black;
+    overflow-x: hidden;
+} */
+
+body {
+    overflow-y: initial;
+    background-color: rgb(208, 250, 255);
+}
+
+.dailycard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 75%; */
+    margin-top: 10px;
+    /* margin-left: 5px; */
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4974A5;
+    width: 100%;
+    height: "inherit";
+    /*color: "white"*/
+}
+
+.dailycardHeaderBackground {
+    background: rgba(16, 5, 174, 0.853);
+    color: white;
+}
+
+.dailycardBodyColor {
+    color: white;
+}
+
+.logincard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 75%; */
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-bottom: 25%; */
+    font-family: Arial, Helvetica, sans-serif;
+    background: #E6F1F1;
+    width: 30%;
+    /* height: 30%; */
+}
+
+.dailycollapsiblecard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 75%; */
+    margin-top: 5px;
+    /* padding: 5px; */
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background: #8A9090;
+    cursor: pointer;
+    color: #FFF;
+}
+
+/* .row {
+    margin: 0 -5px
+}*/
+
+.selects {
+    width: 170px !important;
+    margin-left: 100px !important;
+}
+
+
+
+/* #navbar {
+    margin: 0;
+    padding: 0;
+    width: 25vw;
+    background-color: #f1f1f1;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+} */
+
+/* .active-nav {
+    color: #fb6bfc;
+} */
+
+ul {
+    list-style-type: none;
+}
+
+.a-link {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.a-link:focus {
+    color: #f921fb;
+}
+
+.a-sublink {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none!important;
+    /* font-weight: bold; */
+}
+.a-sublink:focus {
+    color: #f921fb;
+}
+/*#c5eaf3 or #b1e3f0*/
+/* a:hover:not(nav-link) {
+    background-color: #b1e3f0;
+    color: white;
+} */
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    overflow-y: initial;
+}
+
+.subdropdown {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    overflow-y: initial;
+}
+
+.dropdownbtn {
+    cursor: pointer;
+}
+
+.subdropdownbtn {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    /* padding: 8px 16px; */
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    overflow-y: initial;
+}
+
+.dropdown-subcontent {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    /* padding: 8px 16px; */
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    overflow-y: initial;
+}
+
+.submenu {
+    left: 111%;
+    top: 10%;
+    overflow-y: initial;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.subdropdown:hover .dropdown-subcontent {
+    display: block;
+}
+
+.headerDropdown {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.headerDropdown:hover {
+    color: black
+}
+
+.headerDropdown:focus {
+    color: #f921fb
+}
+
+.dailyheader{
+    cursor: pointer;
+    border: solid 1px #f2f2f2;
+    padding: 5px;
+    background-color: #3ebada;
+    color: #FFF;
+    /* font-family: verdana; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 75%; */
+    margin-top: 5px;
+    /* padding: 5px; */
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    /* background: #8A9090; */
+    /* cursor: pointer; */
+    /* color: #FFF; */
+}
+
+.dailyheader[tabindex]:focus {
+    color: black!important;
+}
+
+header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* .main-doc{
+    margin-left: 27%;
+    margin-right: 5%;
+    width: 75vw;
+  } */
+
+.dailycontent{
+    border-left: solid 1px #f2f2f2;
+    border-right: solid 1px #f2f2f2;
+    border-bottom: solid 1px #f2f2f2;
+    border-radius: 5px;
+    font-family: verdana;
+    font-size: small;
+    background-color: #f4f5f6;
+    /* background-color: #3ebada; */
+}
+
+/* @media screen and (max-width: 600px){
+    #navbar{
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      display: none;
+    }
+} */
+
+.modalClass {
+    width: 100vw;
+    height: 100vh;
+}
+
+.capitalize-first {
+    text-transform: lowercase;
+}
+
+.capitalize-first::first-letter {
+    text-transform: uppercase;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+.navbar-style {
+    background-color: #000099;
+    color: white;
+    border-bottom: 1px solid;
+    border-bottom-color: lightsteelblue;
+}
+
+.navlink-style {
+    text-decoration: none!important;
+    display: block;
+    padding: 8px 16px;
+}
+
+.navlink-style-active {
+    color: #f921fb;
+}
+

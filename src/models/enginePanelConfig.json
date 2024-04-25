@@ -1,0 +1,415 @@
+{
+    "data": [
+      {
+        "name":"Group 1",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "rpm",
+          "main_hfo",
+            "speed",
+            "real_slip",
+            "PWR"
+            
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 2",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "rpm",
+          "main_hfo",
+            "speed",
+           
+            "PWR",
+            "EAP41",
+            "EAP42",
+            "EAP43",
+            "EAP44",
+            "EAP45",
+            "EAP46",
+            "EAP4AVG",
+            "COMPP41",
+            "COMPP42",
+            "COMPP43",
+            "COMPP44",
+            "COMPP45",
+            "COMPP46",
+           "COMPPAVG"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 3",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "EAP41",
+            "EAP42",
+            "EAP43",
+            "EAP44",
+            "EAP45",
+            "EAP46",
+            "EAP4AVG",
+            "COMPP41",
+            "COMPP42",
+            "COMPP43",
+            "COMPP44",
+            "COMPP45",
+            "COMPP46",
+            "COMPPAVG",
+            "EXT101",
+            "EXT102",
+            "EXT103",
+            "EXT104",
+            "EXT105",
+            "EXT106",
+            "EXTP1",
+            "PAP1",
+            "PAT1",
+            "PAHUM",
+            "CAPDROP1",
+            "CAT1",
+            "CSEP1",
+            "CAST1",
+            "CAST2"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 4",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "NFP1",
+            "NST1",
+            "NST2",
+            "NFT1",
+            "NFT2",
+          
+           "SSP1",
+           "SST1",
+           "MFP1",
+           "MFT1",
+           "MFT2",
+           "MST1",
+           "MST2",
+           "LOP1",
+           "LOT1",
+           "LOT2",
+           "LST1",
+           "LST2",
+           "CAMLOP1",
+           "CAMLST1",
+           "CAMLST2",
+           "CAMLOT1",
+           "CAMLOT2"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 5",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "SSP1",
+           "SST1"
+
+           
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 6",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "NFP1",
+            "NST1",
+            "NST2",
+            "NFT1",
+            "NFT2",
+          
+           
+           "MFP1",
+           "MFT1",
+           "MFT2",
+           "MST1",
+           "MST2",
+
+           "LOP1",
+           "LOT1",
+           "LOT2",
+           "LST1",
+           "LST2",
+
+           "CAMLOP1",
+           "CAMLST1",
+           "CAMLST2",
+           "CAMLOT1",
+           "CAMLOT2"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 7",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+           
+          "main_hfo",
+           
+           
+            "PWR",
+
+            "EAP41",
+            "EAP42",
+            "EAP43",
+            "EAP44",
+            "EAP45",
+            "EAP46",
+            "EAP4AVG",
+
+            "COMPP41",
+            "COMPP42",
+            "COMPP43",
+            "COMPP44",
+            "COMPP45",
+            "COMPP46",
+           "COMPPAVG",
+           "FOP1",
+           "FOT1",
+           "FOVIS"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 8",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+           "draft_mean",
+           "trim",
+           "rpm",
+           "speed",
+            "SFOC",
+            "SCOC"
+           ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 9",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "amb_tmp",
+            "rel_hum",
+            "cpress",
+
+            "PAP1",
+            "PAT1",
+            "PAHUM",
+
+            "CAPDROP1",
+            "CAT1",
+            "CSEP1",
+            "CAST1",
+            "CAST2",
+
+
+
+            "EAT1",
+            "EAP1",
+            "EAH1"
+           
+            
+           
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 10",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+           "NFT3",
+           "NFT201",
+          "NFT202",
+          "NFT203",
+          "NFT204",
+          "NFT205",
+          "NFT206",
+          "NST1",
+          "NST2",
+          "NFP1",
+          "NFT1",
+          "NFT2"
+           
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 11",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "MFT3",
+          "MFT201",
+          "MFT202",
+          "MFT203",
+          "MFT204",
+          "MFT205",
+          "MFT206",
+          "MST1",
+          "MST2",
+           "MFP1",
+           "MFT1",
+           "MFT2"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 12",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "SCOC",
+            "XHDLOP",
+            "IBLOP",
+            "CCLOP",
+            "ELOT1",
+            "ELOT2",
+            "CAMSLOP",
+
+            "LOP1",
+            "LOT1",
+            "LOT2",
+            "LST1",
+            "LST2",
+            "CAMLOP1",
+            "CAMLST1",
+            "CAMLST2",
+            "CAMLOT1",
+            "CAMLOT2"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 13",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+           
+            "main_hfo",
+            "GOI",
+            "FOI",
+            "ELI",
+           
+            "PWR",
+            "EAP41",
+            "EAP42",
+            "EAP43",
+            "EAP44",
+            "EAP45",
+            "EAP46",
+            "EAP4AVG",
+
+            "COMPP41",
+            "COMPP42",
+            "COMPP43",
+            "COMPP44",
+            "COMPP45",
+            "COMPP46",
+           "COMPPAVG",
+
+           "SFOC",
+           "FOP1",
+           "FOT1",
+           "FOVIS",
+
+           "EXT101",
+           "EXT102",
+           "EXT103",
+           "EXT104",
+           "EXT105",
+           "EXT106",
+           "EXTP1"
+          ],
+          "expected": []
+        }
+      },
+      {
+        "name":"Group 14",
+        "title": "Sea Passage",
+        "params": {
+          "reported": [
+            "date",
+            "EAP41",
+            "EAP42",
+            "EAP43",
+            "EAP44",
+            "EAP45",
+            "EAP46",
+            "EAP4AVG",
+            "COMPP41",
+            "COMPP42",
+            "COMPP43",
+            "COMPP44",
+            "COMPP45",
+            "COMPP46",
+           "COMPPAVG",
+           
+           "EXT101",
+           "EXT102",
+           "EXT103",
+           "EXT104",
+           "EXT105",
+           "EXT106",
+           "EXTP1",
+           "EXT21",
+           "EXT31",
+           "FAPDROP1",
+           "BTLOT1",
+           "TTLOT1",
+
+           "PAP1",
+           "PAT1"
+
+          ],
+          "expected": []
+        }
+      }
+
+
+      
+      
+    ]
+  }
+  

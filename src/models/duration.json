@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "30 days",
+      "value": "30"
+    },
+    {
+      "id": 2,
+      "name": "90 days",
+      "value": "90"
+    },
+    {
+      "id": 3,
+      "name": "1 year",
+      "value": "360"
+    },
+    {
+      "id": 4,
+      "name": "Since dry dock",
+      "value": "dd"
+    }
+  ]
+}

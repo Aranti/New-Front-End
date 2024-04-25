@@ -1,0 +1,222 @@
+[
+    {
+        "label": "FO Serv Tank #1",
+        "value": "fo1_serv_used"
+    },
+    {
+        "label": "FO Serv Tank #2",
+        "value": "fo2_serv_used"
+    },
+    {
+        "label": "FO SUPPLY PP Suct SIDE",
+        "value": "op1_supsuc_always"
+    },
+    {
+        "label": "Fuel Supply Pump #1",
+        "value": "fop1_sup_used"
+    },
+    {
+        "label": "ME Fuel Supply Pump #2",
+        "value": "fop2_sup_used"
+    },
+    {
+        "label": "FO SUPPLY PP Disch & FO CIRC PUMP SUCN SIDE",
+        "value": "fo_supsicrc_always"
+    },
+    {
+        "label": "FO Circ. Pump #1",
+        "value": "fop1_circ_used"
+    },
+    {
+        "label": "ME Fuel Circ. Pump #2",
+        "value": "fop2_circ_used"
+    },
+    {
+        "label": "FO HEATER #1",
+        "value": "fohtr1_used"
+    },
+    {
+        "label": "FO HEATER #2",
+        "value": "fohtr2_used"
+    },
+    {
+        "label": "Viscotherm",
+        "value": "visco_always"
+    },
+    {
+        "label": "Unit #1",
+        "value": "unit1_always"
+    },
+    {
+        "label": "ME Unit #2",
+        "value": "unit2_always"
+    },
+    {
+        "label": "ME Unit #3",
+        "value": "unit3_always"
+    },
+    {
+        "label": "ME Unit #4",
+        "value": "unit4_always"
+    },
+    {
+        "label": "ME Unit #5",
+        "value": "unit5_always"
+    },
+    {
+        "label": "ME Unit #6",
+        "value": "unit6_always"
+    },
+    {
+        "label": "ME Unit #7",
+        "value": "unit7_always"
+    },
+    {
+        "label": "ME Unit #8",
+        "value": "unit8_always"
+    },
+    {
+        "label": "ME Unit #9",
+        "value": "uni9_always"
+    },
+    {
+        "label": "ME Unit #10",
+        "value": "unit10_always"
+    },
+    {
+        "label": "ME Unit #11",
+        "value": "unit11_always"
+    },
+    {
+        "label": "ME Unit #12",
+        "value": "unit12_always"
+    },
+    {
+        "label": "Turbocharger #1",
+        "value": "tch1_always"
+    },
+    {
+        "label": "Turbocharger #2",
+        "value": "tch2_always"
+    },
+    {
+        "label": "Turbocharger #3",
+        "value": "tc4_always"
+    },
+    {
+        "label": "Turbocharger #4",
+        "value": "tch4_always"
+    },
+    {
+        "label": "Air Cooler #1",
+        "value": "ac1_always"
+    },
+    {
+        "label": "Air Cooler #2",
+        "value": "ac2_always"
+    },
+    {
+        "label": "Air Cooler #4 Water Separator",
+        "value": "ac2_watersep_always"
+    },
+    {
+        "label": "Air Cooler #3",
+        "value": "ac3_always"
+    },
+    {
+        "label": "Air Cooler #4",
+        "value": "ac4_always"
+    },
+    {
+        "label": "Aircooler #4 SW Outlet Valve",
+        "value": "ac4_swout_valve_always"
+    },
+    {
+        "label": "Scavenge Manifold,",
+        "value": "sa_manifold_always"
+    },
+    {
+        "label": "Engine Room Blwrs",
+        "value": "er_blowers_always"
+    },
+    {
+        "label": "Jacket Cooling Pump #1 & #2 Suct Side",
+        "value": "jcwp_suc_always"
+    },
+    {
+        "label": "Jacket Cooling Pump #1",
+        "value": "jwcp1_used"
+    },
+    {
+        "label": "Jacket Cooling Pump #2",
+        "value": "jwcp2_used"
+    },
+    {
+        "label": "Jkt Clr #1",
+        "value": "jwc1_used"
+    },
+    {
+        "label": "Jkt Clr #2",
+        "value": "jwc2_used"
+    },
+    {
+        "label": "Jkt Clr Pump Suct Press",
+        "value": "jwcp_suc_press"
+    },
+    {
+        "label": "Pstn Cool Pump #1",
+        "value": "pwc1_used"
+    },
+    {
+        "label": "Pstn Cool Water Cooler #1",
+        "value": "pwcp1_used"
+    },
+    {
+        "label": "Pstn Cool Pump #2",
+        "value": "pwcp2_used"
+    },
+    {
+        "label": "Pstn Cool Water Cooler #2",
+        "value": "pwc2_used"
+    },
+    {
+        "label": "Lub Oil Pump #1",
+        "value": "lop1_used"
+    },
+    {
+        "label": "Lub Oil Pump #2",
+        "value": "lop2_used"
+    },
+    {
+        "label": "ME Lub Oil Pumps #1 & #2 Disch side",
+        "value": "lome_dis"
+    },
+    {
+        "label": "LO Clr #1",
+        "value": "loc1_used"
+    },
+    {
+        "label": "LO Clr #2",
+        "value": "loc2_used"
+    },
+    {
+        "label": "Cr-H Lo Pump #1",
+        "value": "chp1_lo_used"
+    },
+    {
+        "label": "Cr-H Lo Pump #2",
+        "value": "chp2_lo_used"
+    },
+    {
+        "label": "Central Cooling Pump #1",
+        "value": "CCPNO"
+    },
+    {
+        "label": "SW Pump #1",
+        "value": "sw1_pump_used"
+    },
+    {
+        "label": "SW Pump #2",
+        "value": "sw2_pump_used"
+    }
+]

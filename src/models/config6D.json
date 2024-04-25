@@ -1,0 +1,11 @@
+{
+  "data": {
+    "mainDifferential": "imo_no",
+    "xAxisCategory": "fuel",
+    "yAxisCategory": "speed",
+    "zAxisCategory": "rpm",
+    "value1": "beufort",
+    "value2": "ballast",
+    "value3": "hfocpd_outlier"
+  }
+}

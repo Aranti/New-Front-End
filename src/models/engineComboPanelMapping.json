@@ -1,0 +1,34 @@
+{
+  "data": {
+    "Basic Panel": {
+      "rep_dt": "Reported Date",
+      "lat": "Latitude",
+      "long": "Longitude",
+      "rpm": "RPM",
+      "speed": "Speed",
+      "dst_last": "Distance",
+      "w_force": "Beaufort",
+      "sea_st": "Sea State",
+      "main_hfo": "ME HFOC Today"
+    },
+    "Combo Panel": {
+      "PAP1": "Main Engg Scavenge Pressure",
+      "EAP41": "Combustion - Peak Pressure  #1",
+      "EAP42": "Combustion - Peak Pressure  #2",
+      "EAP43": "Combustion - Peak Pressure  #3",
+      "EAP44": "Combustion - Peak Pressure  #4",
+      "EAP45": "Combustion - Peak Pressure  #5",
+      "EAP46": "Combustion - Peak Pressure  #6",
+      "EXT101": "ME Exhaust Temp Unit No.1",
+      "EXT102": "ME Exhaust Temp Unit No.2",
+      "EXT103": "ME Exhaust Temp Unit No.3",
+      "EXT104": "ME Exhaust Temp Unit No.4",
+      "EXT105": "ME Exhaust Temp Unit No.5",
+      "EXT106": "ME Exhaust Temp Unit No.6",
+      "PWR": "Power Developed Today",
+      "SFOC": "Specific Fuel Oil Consumption",
+      "SCOC": "SCOS",
+      "speed": "Speed"
+    }
+  }
+}

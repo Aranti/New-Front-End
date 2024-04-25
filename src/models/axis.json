@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "Speed",
+      "opposite": false
+    },
+    {
+      "name": "HFOC/24 hrs",
+      "opposite": false
+    },
+    
+    {
+      "name": "HFOC/kN-mi",
+      "opposite": false
+    },
+
+      
+    {
+      "name": "RPM",
+      "opposite": false
+    },
+
+    {
+      "name": "Slip",
+      "opposite": false
+    },
+  
+   
+    {
+      "name": "Weather",
+      "opposite": false
+    }
+    
+    
+  ]
+}

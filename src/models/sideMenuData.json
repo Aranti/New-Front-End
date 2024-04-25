@@ -1,0 +1,62 @@
+{
+  "root": [
+    {
+      "id": "vessel",
+      "menu": "My Vessel",
+      "submenu": [
+        {
+          "id": "fuel",
+          "submenuname": "Fuel Consumption - Sea & Hull",
+          "subsubmenu": [
+            {
+              "id": 0,
+              "subsubmenuname": "Data-outliers"
+            },
+            {
+              "id": 1,
+              "subsubmenuname": "Time Trending"
+            },
+            {
+              "id": 2,
+              "subsubmenuname": "Multi-parameter Analysis"
+            },
+            {
+              "id": 3,
+              "subsubmenuname": "Slip Analysis"
+            },
+            {
+              "id": 4,
+              "subsubmenuname": "Route Analysis"
+            }
+          ]
+        },
+        {
+          "id": "machine",
+          "submenuname": "Machinary",
+          "subsubmenu": [
+            {
+              "id": 5,
+              "subsubmenuname": "Trend Analysis"
+            },
+            {
+              "id": 6,
+              "subsubmenuname": "Multi-Parameter Analysis"
+            },
+            {
+              "id": 7,
+              "subsubmenuname": "Ship Analysis"
+            }
+          ]
+        },
+        {
+          "id": "MP",
+          "submenuname": "Machinary Performance"
+        }
+      ]
+    },
+    {
+      "id": "GA",
+      "menu": "General Analysis"
+    }
+  ]
+}

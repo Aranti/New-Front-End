@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "name": "Speed",
+      "field": "speed",
+      "valueAxisName": "Speed",
+      "hidden": false
+    },
+    {
+      "name": "Speed Outlier",
+      "field": "speed_outlier",
+      "valueAxisName": "Speed",
+      "hidden": false
+    },
+    {
+      "name": "Speed Expected",
+      "field": "speed_prediction",
+      "valueAxisName": "Speed",
+      "hidden": false
+    },
+    {
+      "name": "Speed Ballast High",
+      "field": "ballast_high_Speed",
+      "valueAxisName": "Speed",
+      "hidden": false
+    },
+    {
+      "name": "Speed Loaded High",
+      "field": "loaded_high_Speed",
+      "valueAxisName": "Speed",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/kN-mi Expected",
+      "field": "hfocpd_prediciton",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/kN-mi",
+      "field": "hfocpd",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/kN-mi Outlier",
+      "field": "hfocpd_outlier",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+
+    {
+      "name": "HFOC Aggregate",
+      "field": "hfocpd_pred_aggregate_lower",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+    {
+      "name": "HFOC Aggregate Upper",
+      "field": "hfocpd_pred_aggregate_upper",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/24 hrs Aggregate",
+      "field": "hfoc24_pred_aggregate_lower",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/24 hrs Aggregate Upper",
+      "field": "hfoc24_pred_aggregate_upper",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+
+    {
+      "name": "HFOC/24 hrs",
+      "field": "hfoc24",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/24 hrs Outlier",
+      "field": "hfoc24_outlier",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/24 hrs Expected",
+      "field": "hfoc24_prediction",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+    {
+      "name": "Slip Expected",
+      "field": "slip_prediction",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    {
+      "name": "Slip",
+      "field": "slip",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    {
+      "name": "Slip Outlier",
+      "field": "slip_outlier",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    {
+      "name": "Slip Aggregate",
+      "field": "slip_prediciton_aggregate_lower",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    {
+      "name": "Slip Aggregate Upper",
+      "field": "slip_prediciton_aggregate_upper",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    
+    {
+      "name": "RPM",
+      "field": "rpm",
+      "valueAxisName": "RPM",
+      "hidden": false
+    },
+
+    {
+      "name": "RPM Outlier",
+      "field": "rpm_outlier",
+      "valueAxisName": "RPM",
+      "hidden": false
+    },
+    {
+      "name": "RPM Ballast High",
+      "field": "ballast_high_RPM",
+      "valueAxisName": "RPM",
+      "hidden": false
+    },
+    {
+      "name": "RPM Loaded High",
+      "field": "loaded_high_RPM",
+      "valueAxisName": "RPM",
+      "hidden": false
+    },
+    {
+      "name": "HFOC Expected 9591301",
+      "field": "hfocpd_prediction_9591301",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC Expected 9591313",
+      "field": "hfocpd_prediction_9591313",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC Expected 9591337",
+      "field": "hfocpd_prediction_9591337",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC Expected 9591349",
+      "field": "hfocpd_prediction_9591349",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC Expected 9591325",
+      "field": "hfocpd_prediction_9591325",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC/kN-mi Ballast High",
+      "field": "ballast_high_HFOCkNmi",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/kN-mi Loaded High",
+      "field": "loaded_high_HFOCkNmi",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": false
+    },
+    {
+      "name": "Slip Expected 9591301",
+      "field": "slip_prediction_9591301",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Expected 9591313",
+      "field": "slip_prediction_9591313",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Expected 9591337",
+      "field": "slip_prediction_9591337",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Expected 9591349",
+      "field": "slip_prediction_9591349",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Expected 9591325",
+      "field": "slip_prediction_9591325",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Expected Last Year",
+      "field": "slip_prediction_ly",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Expected Dry Dock",
+      "field": "slip_prediction_dd",
+      "valueAxisName": "Slip",
+      "hidden": true
+    },
+    {
+      "name": "Slip Ballast High",
+      "field": "ballast_high_Slip",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    {
+      "name": "Slip Loaded High",
+      "field": "loaded_high_Slip",
+      "valueAxisName": "Slip",
+      "hidden": false
+    },
+    {
+      "name": "HFOC Expected Last Year",
+      "field": "hfocpd_prediction_ly",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC Expected Dry Dock",
+      "field": "hfocpd_prediction_dd",
+      "valueAxisName": "HFOC/kN-mi",
+      "hidden": true
+    },
+    {
+      "name": "HFOC/24 hrs Ballast High",
+      "field": "ballast_high_hfoc24",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+    {
+      "name": "HFOC/24 hrs Loaded High",
+      "field": "loaded_high_hfoc24",
+      "valueAxisName": "HFOC/24 hrs",
+      "hidden": false
+    },
+    {
+      "name": "Height High",
+      "field": "sea_st_high",
+      "valueAxisName": "Sea_state",
+      "hidden": true
+    },
+    {
+      "name": "Height Low",
+      "field": "sea_st_low",
+      "valueAxisName": "Sea_state",
+      "hidden": true
+    },
+    {
+      "name": "Swell",
+      "field": "swell",
+      "valueAxisName": "Sea_state",
+      "hidden": false
+    },
+    {
+      "name": "Wind force",
+      "field": "w_force",
+      "valueAxisName": "Sea_state",
+      "hidden": false
+    },
+    {
+      "name": "Current knots",
+      "field": "curknots",
+      "valueAxisName": "Sea_state",
+      "hidden": false
+    },
+    {
+      "name": "Weather Ballast High",
+      "field": "loaded_high_Weather",
+      "valueAxisName": "Sea_state",
+      "hidden": false
+    },
+    {
+      "name": "Weather Loaded High",
+      "field": "ballast_high_Weather",
+      "valueAxisName": "Sea_state",
+      "hidden": false
+    }
+
+  
+  ]
+}

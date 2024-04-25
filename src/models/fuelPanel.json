@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "type": "Engine",
+      "values": [
+        {
+          "varName": "hfoc24",
+          "displayName": "HFOC"
+        },
+        {
+          "varName": "lsfocpd",
+          "displayName": "LSFOC"
+        },
+        {
+          "displayName": "DFOC",
+          "varName": "dfocpd"
+        }
+      ]
+    },
+    {
+      "type": "Generator",
+      "values": [
+        {
+          "varName": "ghfocpd",
+          "displayName": "HFOC"
+        },
+        {
+          "varName": "glsfocpd",
+          "displayName": "LSFOC"
+        },
+        {
+          "displayName": "DFOC",
+          "varName": "gdfocpd"
+        }
+      ]
+    },
+    {
+      "type": "Boiler",
+      "values": [
+        {
+          "varName": "bhfocpd",
+          "displayName": "HFOC"
+        },
+        {
+          "varName": "blsfocpd",
+          "displayName": "LSFOC"
+        }
+      ]
+    }
+  ]
+}

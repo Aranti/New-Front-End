@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "name": "Combustion -Peak Pressure  #1",
+      "field": "EAP41",
+      "valueAxisName": "Combustion -Peak Pressure",
+      "hidden": false
+    },
+    {
+      "name": "Combustion -Peak Pressure  #2",
+      "field": "EAP42",
+      "valueAxisName": "Combustion -Peak Pressure",
+      "hidden": false
+    },
+    {
+      "name": "Combustion -Peak Pressure  #3",
+      "field": "EAP43",
+      "valueAxisName": "Combustion -Peak Pressure",
+      "hidden": false
+    },
+    {
+      "name": "Combustion -Peak Pressure  #4",
+      "field": "EAP44",
+      "valueAxisName": "Combustion -Peak Pressure",
+      "hidden": false
+    },
+    {
+      "name": "Combustion -Peak Pressure  #5",
+      "field": "EAP45",
+      "valueAxisName": "Combustion -Peak Pressure",
+      "hidden": false
+    },
+    {
+      "name": "Combustion -Peak Pressure  #6",
+      "field": "EAP46",
+      "valueAxisName": "Combustion -Peak Pressure",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.1",
+      "field": "EXT101",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.2",
+      "field": "EXT102",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.3",
+      "field": "EXT103",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.4",
+      "field": "EXT104",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.5",
+      "field": "EXT105",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Me Exhaust Temp Unit No.6",
+      "field": "EXT106",
+      "valueAxisName": "Me Exhaust Temp",
+      "hidden": false
+    },
+    {
+      "name": "Speed",
+      "field": "speed",
+      "valueAxisName": "Speed",
+      "hidden": false
+    },
+    {
+      "name": "Power Developed Today",
+      "field": "PWR",
+      "valueAxisName": "Power Developed Today",
+      "hidden": false
+    },
+
+    {
+      "name": "Main Engg Scav Press",
+      "field": "PAP1",
+      "valueAxisName": "Main Engg Scav Press",
+      "hidden": false
+    }
+  ]
+}

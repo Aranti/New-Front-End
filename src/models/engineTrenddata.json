@@ -1,0 +1,13 @@
+{
+    "data":[
+        {
+            "name":"Group 1", "fields":["rpm", "speed", "real_slip", "main_hfo", "PWR"],"related":[1]
+        },
+        {
+            "name":"Group 2", "fields":["rpm", "speed", "main_hfo", "PWR"],"related":[1,2,3]
+        },
+        {
+            "name":"Group 3", "fields":["COMPP41", "COMPP42", "COMPP43", "COMPP44", "COMPP45", "COMPP46", "COMPPAVG"],"related":[2,3,5,7,8]
+        }
+    ]
+}

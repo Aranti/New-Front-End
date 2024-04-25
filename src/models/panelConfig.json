@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "title": "Sea Passage",
+      "params": {
+        "reported": [
+          "date",
+          "latitude",
+         
+          "longitude",
+         
+         
+          "streaming_hours",
+          "speed",
+          "beufort",
+          "wind_speed",
+          "sea_state",
+          "swell",
+          "current",
+          "current_dir",
+          "swelldir"
+          
+        ],
+        "expected": []
+      }
+    },
+    {
+      "title": "",
+      "params": {
+        "expected": ["rpm_prediction", "speed_prediction", "slip_prediction"],
+        "reported": [
+         
+          "ballast",
+          "draft_mean",
+          "trim",
+          "draft_aft",
+          "rpm",
+          "speed",
+          "slip"
+        ]
+      }
+    }
+    
+  ]
+}
